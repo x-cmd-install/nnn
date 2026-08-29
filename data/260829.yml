@@ -1,0 +1,64 @@
+about:
+  description: n³ The unorthodox terminal file manager
+  license: BSD-2-Clause
+  homepage: 
+  head: f555d3d
+  archived: false
+  latestVersion: v5.3
+  collectedAt: 2026-08-29T07:22:30Z
+timeline:
+  created: 2016-08-20
+  lastCommit: 2026-08-29
+  lastRelease: 2026-08-15
+popularity:
+  star: 21842
+  watcher: 138
+  fork: 815
+  release: 44
+  contributor: 202
+  pullRequest: 142
+  issue: 1048
+language:
+  C: 428686
+  Shell: 231376
+  Roff: 23270
+  Makefile: 19609
+  C++: 9070
+  Python: 1877
+  Nushell: 1288
+  Elvish: 922
+  AppleScript: 336
+totalLine: 716434
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 1
+    mergedPR: 2
+    openPR: 0
+    closedIssue: 2
+    openIssue: 0
+    commit: 15
+  last90d:
+    since: 2026-05-31
+    release: 1
+    mergedPR: 6
+    openPR: 0
+    closedIssue: 6
+    openIssue: 0
+    commit: 27
+  last180d:
+    since: 2026-03-02
+    release: 1
+    mergedPR: 8
+    openPR: 0
+    closedIssue: 14
+    openIssue: 3
+    commit: 70
+  last360d:
+    since: 2025-09-03
+    release: 2
+    mergedPR: 14
+    openPR: 0
+    closedIssue: 34
+    openIssue: 3
+    commit: 139
