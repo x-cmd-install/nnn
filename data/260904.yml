@@ -7,7 +7,7 @@ about:
   head: 1a099bf
   archived: false
   latestVersion: v5.3
-  collectedAt: 2026-09-04T19:59:57Z
+  collectedAt: 2026-09-04T20:40:55Z
 timeline:
   created: 2016-08-20
   lastCommit: 2026-09-03
@@ -88,6 +88,84 @@ total:
   openIssue: 4
   commit: 4654
 ---
+path: /home/runner/.x-repo/github.com/jarun/nnn
+collectedAt: 2026-09-04T20:40:56Z
+loc:
+  C:
+    code: 8702
+    comments: 872
+    blanks: 1619
+    files: 3
+  CHeader:
+    code: 4429
+    comments: 280
+    blanks: 89
+    files: 7
+  Sh:
+    code: 2687
+    comments: 1163
+    blanks: 574
+    files: 60
+  Bash:
+    code: 1356
+    comments: 317
+    blanks: 152
+    files: 8
+  Makefile:
+    code: 513
+    comments: 27
+    blanks: 107
+    files: 2
+  Svg:
+    code: 300
+    comments: 1
+    blanks: 1
+    files: 1
+  Yaml:
+    code: 121
+    comments: 20
+    blanks: 0
+    files: 1
+  Cpp:
+    code: 68
+    comments: 1
+    blanks: 14
+    files: 1
+  Fish:
+    code: 56
+    comments: 21
+    blanks: 7
+    files: 2
+  Python:
+    code: 31
+    comments: 24
+    blanks: 10
+    files: 2
+  Elvish:
+    code: 23
+    comments: 12
+    blanks: 6
+    files: 1
+  CShell:
+    code: 2
+    comments: 12
+    blanks: 3
+    files: 1
+  Markdown:
+    code: 0
+    comments: 483
+    blanks: 154
+    files: 4
+  Text:
+    code: 0
+    comments: 43
+    blanks: 12
+    files: 1
+total:
+  code: 18288
+  comments: 3276
+  blanks: 2748
+  files: 94
 ---
 date: "2026-08-24"
 repo:
