@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 566,
       "digest": "sha256:7b77ef348414a11e44ffb0fe9f4bf7d6f70c9fb9aec29c3623ac4f08ed53e04b",
-      "download_count": 61,
+      "download_count": 62,
       "created_at": "2026-08-15T14:22:46Z",
       "updated_at": "2026-08-15T14:22:46Z",
       "browser_download_url": "https://github.com/jarun/nnn/releases/download/v5.3/nnn-5.3.tar.gz.sig"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 663378,
       "digest": "sha256:67b2cd1dcbd7246a230f8ef8bc6afcbb82075d67471b5d0fa4e3f9d61b103d14",
-      "download_count": 207,
+      "download_count": 208,
       "created_at": "2026-08-15T14:22:55Z",
       "updated_at": "2026-08-15T14:22:56Z",
       "browser_download_url": "https://github.com/jarun/nnn/releases/download/v5.3/nnn-emoji-static-5.3.x86_64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 663315,
       "digest": "sha256:8fb4a9b4c9842eaf4e49db7bdedd8aece6ec776265b2fe6eeff35f05566d0590",
-      "download_count": 67,
+      "download_count": 69,
       "created_at": "2026-08-15T14:22:51Z",
       "updated_at": "2026-08-15T14:22:52Z",
       "browser_download_url": "https://github.com/jarun/nnn/releases/download/v5.3/nnn-icons-static-5.3.x86_64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 209447,
       "digest": "sha256:ba36a4013f6bea3150e27c6ecfd550ce77abb6c90d6aa376466ec60d17ac3345",
-      "download_count": 170,
+      "download_count": 171,
       "created_at": "2026-08-15T14:22:56Z",
       "updated_at": "2026-08-15T14:22:57Z",
       "browser_download_url": "https://github.com/jarun/nnn/releases/download/v5.3/nnn-musl-static-5.3.x86_64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 663575,
       "digest": "sha256:b7f5eee9dfbdfface3bdcd7d02ac87d78b6b5813f8b9e5fb7d37e7209b96803c",
-      "download_count": 139,
+      "download_count": 140,
       "created_at": "2026-08-15T14:22:53Z",
       "updated_at": "2026-08-15T14:22:54Z",
       "browser_download_url": "https://github.com/jarun/nnn/releases/download/v5.3/nnn-nerd-static-5.3.x86_64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 661145,
       "digest": "sha256:98b9c1b653d2090a3b509653a56ad34196044bb7854be81c10befe28167928cf",
-      "download_count": 173,
+      "download_count": 174,
       "created_at": "2026-08-15T14:22:49Z",
       "updated_at": "2026-08-15T14:22:51Z",
       "browser_download_url": "https://github.com/jarun/nnn/releases/download/v5.3/nnn-static-5.3.x86_64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 286736,
       "digest": "sha256:c626d57d0aaa5effe04a7e8c24ec9000bc3aca012461b821ecd3c81f5131bb6d",
-      "download_count": 815,
+      "download_count": 825,
       "created_at": "2026-08-15T14:12:16Z",
       "updated_at": "2026-08-15T14:12:16Z",
       "browser_download_url": "https://github.com/jarun/nnn/releases/download/v5.3/nnn-v5.3.tar.gz"
