@@ -2,12 +2,12 @@ about:
   description: "n³ The unorthodox terminal file manager"
   license: BSD-2-Clause
   homepage: 
-  head: 5f26709
+  head: 6dd7c73
   archived: false
   latestVersion: "v5.3"
   latestRelease: "v5.3"
   latestPrerelease: "v3.7"
-  collectedAt: 2026-09-09T04:30:05Z
+  collectedAt: 2026-09-09T18:29:20Z
 timeline:
   created: 2016-08-20
   lastCommit: 2026-09-09
@@ -15,16 +15,16 @@ timeline:
   lastRelease: 2026-08-15
   lastPrerelease: 2021-04-13
 popularity:
-  star: 21878
+  star: 21880
   watcher: 141
   fork: 817
   release: 44
   contributor: 203
-  pullRequest: 825
+  pullRequest: 826
   issue: 1048
 language:
   C: 430173
-  Shell: 234313
+  Shell: 234321
   Roff: 23348
   Makefile: 19729
   C++: 9070
@@ -32,66 +32,66 @@ language:
   Nushell: 1288
   Elvish: 922
   AppleScript: 336
-totalBytes: 724342
+totalBytes: 724350
 recent:
   last30d:
     since: 2026-08-10
     release: 1
-    mergedPR: 3
+    mergedPR: 4
     openPR: 0
     closedIssue: 2
     openIssue: 0
-    commit: 36
+    commit: 37
   last60d:
     since: 2026-07-11
     release: 1
-    mergedPR: 4
+    mergedPR: 5
     openPR: 0
     closedIssue: 5
     openIssue: 0
-    commit: 43
+    commit: 44
   last90d:
     since: 2026-06-11
     release: 1
-    mergedPR: 4
+    mergedPR: 5
     openPR: 0
     closedIssue: 6
     openIssue: 0
-    commit: 44
+    commit: 45
   last180d:
     since: 2026-03-13
     release: 1
-    mergedPR: 9
+    mergedPR: 10
     openPR: 0
     closedIssue: 14
     openIssue: 3
-    commit: 90
+    commit: 91
   last360d:
     since: 2025-09-14
     release: 2
-    mergedPR: 15
+    mergedPR: 16
     openPR: 0
     closedIssue: 35
     openIssue: 3
-    commit: 162
+    commit: 163
   last720d:
     since: 2024-09-19
     release: 3
-    mergedPR: 49
+    mergedPR: 50
     openPR: 0
     closedIssue: 54
     openIssue: 3
-    commit: 288
+    commit: 290
 total:
   release: 44
-  mergedPR: 682
+  mergedPR: 683
   openPR: 0
   closedIssue: 1044
   openIssue: 4
-  commit: 4657
+  commit: 4659
 ---
 path: /home/runner/.x-repo/github.com/jarun/nnn
-collectedAt: 2026-09-09T04:30:07Z
+collectedAt: 2026-09-09T18:29:23Z
 loc:
   C:
     code: 8702
