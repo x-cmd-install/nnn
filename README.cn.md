@@ -4,7 +4,7 @@
 
 n³ The unorthodox terminal file manager
 
-![nnn](https://repo.x-cmd.io/nnn.svg)
+![nnn](https://repo.x-cmd.io/nnn.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,19 @@ x install nnn
 - **最新版本**: `v5.3` (2026-08-15)
 - **最近提交**: 2026-09-09
 - **Release 含资产**: 8 个
-- **发布时间**: 2026-08-15T14:12:16Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [nnn-5.3.tar.gz.sig](https://github.com/jarun/nnn/releases/download/v5.3/nnn-5.3.tar.gz.sig) | 566 B | `other` |
+| [nnn-emoji-static-5.3.x86_64.tar.gz](https://github.com/jarun/nnn/releases/download/v5.3/nnn-emoji-static-5.3.x86_64.tar.gz) | 647.8 KiB | `native/linux/x64` |
+| [nnn-icons-static-5.3.x86_64.tar.gz](https://github.com/jarun/nnn/releases/download/v5.3/nnn-icons-static-5.3.x86_64.tar.gz) | 647.8 KiB | `native/linux/x64` |
+| [nnn-musl-emoji-static-5.3.x86_64.tar.gz](https://github.com/jarun/nnn/releases/download/v5.3/nnn-musl-emoji-static-5.3.x86_64.tar.gz) | 226.9 KiB | `native/linux/x64/musl` |
+| [nnn-musl-static-5.3.x86_64.tar.gz](https://github.com/jarun/nnn/releases/download/v5.3/nnn-musl-static-5.3.x86_64.tar.gz) | 204.5 KiB | `native/linux/x64/musl` |
+| [nnn-nerd-static-5.3.x86_64.tar.gz](https://github.com/jarun/nnn/releases/download/v5.3/nnn-nerd-static-5.3.x86_64.tar.gz) | 648.0 KiB | `native/linux/x64` |
+| [nnn-static-5.3.x86_64.tar.gz](https://github.com/jarun/nnn/releases/download/v5.3/nnn-static-5.3.x86_64.tar.gz) | 645.6 KiB | `native/linux/x64` |
+| [nnn-v5.3.tar.gz](https://github.com/jarun/nnn/releases/download/v5.3/nnn-v5.3.tar.gz) | 280.0 KiB | `native/unknown` |
 
 ## 流行度
 
@@ -71,4 +83,4 @@ nnn 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:27:38Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:13:39Z._

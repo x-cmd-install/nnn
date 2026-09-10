@@ -22,7 +22,19 @@ x install nnn
 - **Latest**: `v5.3` (2026-08-15)
 - **Last commit**: 2026-09-09
 - **Assets in release**: 8
-- **Published**: 2026-08-15T14:12:16Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [nnn-5.3.tar.gz.sig](https://github.com/jarun/nnn/releases/download/v5.3/nnn-5.3.tar.gz.sig) | 566 B | `other` |
+| [nnn-emoji-static-5.3.x86_64.tar.gz](https://github.com/jarun/nnn/releases/download/v5.3/nnn-emoji-static-5.3.x86_64.tar.gz) | 647.8 KiB | `native/linux/x64` |
+| [nnn-icons-static-5.3.x86_64.tar.gz](https://github.com/jarun/nnn/releases/download/v5.3/nnn-icons-static-5.3.x86_64.tar.gz) | 647.8 KiB | `native/linux/x64` |
+| [nnn-musl-emoji-static-5.3.x86_64.tar.gz](https://github.com/jarun/nnn/releases/download/v5.3/nnn-musl-emoji-static-5.3.x86_64.tar.gz) | 226.9 KiB | `native/linux/x64/musl` |
+| [nnn-musl-static-5.3.x86_64.tar.gz](https://github.com/jarun/nnn/releases/download/v5.3/nnn-musl-static-5.3.x86_64.tar.gz) | 204.5 KiB | `native/linux/x64/musl` |
+| [nnn-nerd-static-5.3.x86_64.tar.gz](https://github.com/jarun/nnn/releases/download/v5.3/nnn-nerd-static-5.3.x86_64.tar.gz) | 648.0 KiB | `native/linux/x64` |
+| [nnn-static-5.3.x86_64.tar.gz](https://github.com/jarun/nnn/releases/download/v5.3/nnn-static-5.3.x86_64.tar.gz) | 645.6 KiB | `native/linux/x64` |
+| [nnn-v5.3.tar.gz](https://github.com/jarun/nnn/releases/download/v5.3/nnn-v5.3.tar.gz) | 280.0 KiB | `native/unknown` |
 
 ## Popularity
 
@@ -67,8 +79,8 @@ Lowest-scoring checks:
 Install metadata for nnn lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `nnn` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/nnn.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/nnn.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:27:37Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:13:38Z._
