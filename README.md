@@ -12,47 +12,7 @@ n³ The unorthodox terminal file manager
 x install nnn
 ```
 
-## Source
-
-- **Upstream**: <https://github.com/jarun/nnn>
-- **License**: BSD-2-Clause
-
-## Release
-
-- **Latest**: `v5.3` (2026-08-15)
-- **Last commit**: 2026-09-09
-- **Assets in release**: 8
-
-## Release assets
-
-| Asset | Size | Target |
-|-------|-----:|--------|
-| [nnn-5.3.tar.gz.sig](https://github.com/jarun/nnn/releases/download/v5.3/nnn-5.3.tar.gz.sig) | 566 B | `other` |
-| [nnn-emoji-static-5.3.x86_64.tar.gz](https://github.com/jarun/nnn/releases/download/v5.3/nnn-emoji-static-5.3.x86_64.tar.gz) | 647.8 KiB | `native/linux/x64` |
-| [nnn-icons-static-5.3.x86_64.tar.gz](https://github.com/jarun/nnn/releases/download/v5.3/nnn-icons-static-5.3.x86_64.tar.gz) | 647.8 KiB | `native/linux/x64` |
-| [nnn-musl-emoji-static-5.3.x86_64.tar.gz](https://github.com/jarun/nnn/releases/download/v5.3/nnn-musl-emoji-static-5.3.x86_64.tar.gz) | 226.9 KiB | `native/linux/x64/musl` |
-| [nnn-musl-static-5.3.x86_64.tar.gz](https://github.com/jarun/nnn/releases/download/v5.3/nnn-musl-static-5.3.x86_64.tar.gz) | 204.5 KiB | `native/linux/x64/musl` |
-| [nnn-nerd-static-5.3.x86_64.tar.gz](https://github.com/jarun/nnn/releases/download/v5.3/nnn-nerd-static-5.3.x86_64.tar.gz) | 648.0 KiB | `native/linux/x64` |
-| [nnn-static-5.3.x86_64.tar.gz](https://github.com/jarun/nnn/releases/download/v5.3/nnn-static-5.3.x86_64.tar.gz) | 645.6 KiB | `native/linux/x64` |
-| [nnn-v5.3.tar.gz](https://github.com/jarun/nnn/releases/download/v5.3/nnn-v5.3.tar.gz) | 280.0 KiB | `native/unknown` |
-
-## Popularity
-
-- **Stars**: 21,879 · **Forks**: 817 · **Open issues**: 1,048 · **Contributors**: 203
-
-## Totals (cumulative)
-
-- **Releases**: 44 · **Merged PRs**: 683 · **Open PRs**: 0 · **Closed issues**: 1044 · **Open issues**: 4 · **Commits**: 4659
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 4 | 0 | 2 | 0 | 37 |
-| 90d | 2026-06-12 | 1 | 5 | 0 | 6 | 0 | 45 |
-| 360d | 2025-09-15 | 2 | 16 | 0 | 35 | 3 | 163 |
-
-## Code size
+## Code insight
 
 Total: **18,357** lines of code across **80** files in the top 5 languages.
 
@@ -74,6 +34,68 @@ Lowest-scoring checks:
 - **Code-Review** (0/10) — Found 2/28 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
+## Source
+
+- **Upstream**: <https://github.com/jarun/nnn>
+- **License**: BSD-2-Clause
+
+## Release
+
+- **Latest**: `v5.3` (2026-08-15)
+- **Last commit**: 2026-09-09
+- **Assets in release**: 8
+
+## Popularity
+
+- **Stars**: 21,879 · **Forks**: 817 · **Open issues**: 1,048 · **Contributors**: 203
+
+## Totals (cumulative)
+
+- **Releases**: 44 · **Merged PRs**: 683 · **Open PRs**: 0 · **Closed issues**: 1044 · **Open issues**: 4 · **Commits**: 4659
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 1 | 4 | 0 | 2 | 0 | 37 |
+| last60d | 2026-07-12 | 1 | 5 | 0 | 5 | 0 | 44 |
+| 90d | 2026-06-12 | 1 | 5 | 0 | 6 | 0 | 45 |
+| last180d | 2026-03-14 | 1 | 10 | 0 | 14 | 3 | 91 |
+| 360d | 2025-09-15 | 2 | 16 | 0 | 35 | 3 | 163 |
+| last720d | 2024-09-20 | 3 | 49 | 0 | 54 | 3 | 290 |
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [nnn-5.3.tar.gz.sig](https://github.com/jarun/nnn/releases/download/v5.3/nnn-5.3.tar.gz.sig) | 566 B | `other` |
+| [nnn-emoji-static-5.3.x86_64.tar.gz](https://github.com/jarun/nnn/releases/download/v5.3/nnn-emoji-static-5.3.x86_64.tar.gz) | 647.8 KiB | `native/linux/x64` |
+| [nnn-icons-static-5.3.x86_64.tar.gz](https://github.com/jarun/nnn/releases/download/v5.3/nnn-icons-static-5.3.x86_64.tar.gz) | 647.8 KiB | `native/linux/x64` |
+| [nnn-musl-emoji-static-5.3.x86_64.tar.gz](https://github.com/jarun/nnn/releases/download/v5.3/nnn-musl-emoji-static-5.3.x86_64.tar.gz) | 226.9 KiB | `native/linux/x64/musl` |
+| [nnn-musl-static-5.3.x86_64.tar.gz](https://github.com/jarun/nnn/releases/download/v5.3/nnn-musl-static-5.3.x86_64.tar.gz) | 204.5 KiB | `native/linux/x64/musl` |
+| [nnn-nerd-static-5.3.x86_64.tar.gz](https://github.com/jarun/nnn/releases/download/v5.3/nnn-nerd-static-5.3.x86_64.tar.gz) | 648.0 KiB | `native/linux/x64` |
+| [nnn-static-5.3.x86_64.tar.gz](https://github.com/jarun/nnn/releases/download/v5.3/nnn-static-5.3.x86_64.tar.gz) | 645.6 KiB | `native/linux/x64` |
+| [nnn-v5.3.tar.gz](https://github.com/jarun/nnn/releases/download/v5.3/nnn-v5.3.tar.gz) | 280.0 KiB | `native/unknown` |
+
+## Distribution status
+
+Reported by **171** distros on [repology.org](https://repology.org/project/nnn). **37** are ✅ on the latest upstream release, **123** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `5.3` | ✅ latest |
+| Debian 14 | `5.3` | ✅ latest |
+| Debian 13 | `5.0` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `5.1` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `4.9` | ⚠️ outdated |
+| Arch | `5.3` | ✅ latest |
+| Homebrew | `5.3` | ✅ latest |
+| Fedora rawhide | `5.3` | ✅ latest |
+| Nix unstable | `5.3` | ✅ latest |
+| Void | `5.3` | ✅ latest |
+| Alpine edge | `5.2` | ⚠️ outdated |
+| openSUSE Tumbleweed | `5.2` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for nnn lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `nnn` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -83,4 +105,4 @@ Install metadata for nnn lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:13:38Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:10:26Z._
