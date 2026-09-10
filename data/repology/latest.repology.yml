@@ -1,0 +1,2158 @@
+- repo: aosc
+  srcname: app-utils/nnn
+  binname: nnn
+  visiblename: nnn
+  version: "5.3"
+  origversion: null
+  status: newest
+  summary: The missing terminal file manager for X
+  maintainers:
+    - fallback-mnt-aosc@repology
+  categories:
+    - utils
+- repo: kali_rolling
+  subrepo: main
+  srcname: nnn
+  binnames:
+    - nnn
+  visiblename: nnn
+  version: "5.3"
+  origversion: 5.3-1
+  status: newest
+  maintainers:
+    - szlin@debian.org
+  categories:
+    - misc
+- repo: aerynos
+  srcname: nnn
+  visiblename: nnn
+  version: "5.3"
+  origversion: null
+  status: newest
+  summary: The unorthodox terminal file manager
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_17
+  subrepo: community
+  srcname: nnn
+  binname: nnn-zsh-completion
+  visiblename: nnn-zsh-completion
+  version: "4.6"
+  origversion: 4.6-r0
+  status: outdated
+  summary: Zsh completions for nnn
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_17
+  subrepo: community
+  srcname: nnn
+  binname: nnn-doc
+  visiblename: nnn-doc
+  version: "4.6"
+  origversion: 4.6-r0
+  status: outdated
+  summary: The unorthodox terminal file manager (documentation)
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_17
+  subrepo: community
+  srcname: nnn
+  binname: nnn-bash-completion
+  visiblename: nnn-bash-completion
+  version: "4.6"
+  origversion: 4.6-r0
+  status: outdated
+  summary: Bash completions for nnn
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_17
+  subrepo: community
+  srcname: nnn
+  binname: nnn-fish-completion
+  visiblename: nnn-fish-completion
+  version: "4.6"
+  origversion: 4.6-r0
+  status: outdated
+  summary: Fish completions for nnn
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_17
+  subrepo: community
+  srcname: nnn
+  binname: nnn-plugins
+  visiblename: nnn-plugins
+  version: "4.6"
+  origversion: 4.6-r0
+  status: outdated
+  summary: nnn official plugins
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_17
+  subrepo: community
+  srcname: nnn
+  binname: nnn
+  visiblename: nnn
+  version: "4.6"
+  origversion: 4.6-r0
+  status: outdated
+  summary: The unorthodox terminal file manager
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_18
+  subrepo: community
+  srcname: nnn
+  binname: nnn
+  visiblename: nnn
+  version: "4.8"
+  origversion: 4.8-r0
+  status: outdated
+  summary: The unorthodox terminal file manager
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_18
+  subrepo: community
+  srcname: nnn
+  binname: nnn-bash-completion
+  visiblename: nnn-bash-completion
+  version: "4.8"
+  origversion: 4.8-r0
+  status: outdated
+  summary: Bash completions for nnn
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_18
+  subrepo: community
+  srcname: nnn
+  binname: nnn-doc
+  visiblename: nnn-doc
+  version: "4.8"
+  origversion: 4.8-r0
+  status: outdated
+  summary: The unorthodox terminal file manager (documentation)
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_18
+  subrepo: community
+  srcname: nnn
+  binname: nnn-fish-completion
+  visiblename: nnn-fish-completion
+  version: "4.8"
+  origversion: 4.8-r0
+  status: outdated
+  summary: Fish completions for nnn
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_18
+  subrepo: community
+  srcname: nnn
+  binname: nnn-plugins
+  visiblename: nnn-plugins
+  version: "4.8"
+  origversion: 4.8-r0
+  status: outdated
+  summary: nnn official plugins
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_18
+  subrepo: community
+  srcname: nnn
+  binname: nnn-zsh-completion
+  visiblename: nnn-zsh-completion
+  version: "4.8"
+  origversion: 4.8-r0
+  status: outdated
+  summary: Zsh completions for nnn
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_19
+  subrepo: community
+  srcname: nnn
+  binname: nnn
+  visiblename: nnn
+  version: "4.9"
+  origversion: 4.9-r0
+  status: outdated
+  summary: The unorthodox terminal file manager
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_19
+  subrepo: community
+  srcname: nnn
+  binname: nnn-bash-completion
+  visiblename: nnn-bash-completion
+  version: "4.9"
+  origversion: 4.9-r0
+  status: outdated
+  summary: Bash completions for nnn
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_19
+  subrepo: community
+  srcname: nnn
+  binname: nnn-doc
+  visiblename: nnn-doc
+  version: "4.9"
+  origversion: 4.9-r0
+  status: outdated
+  summary: The unorthodox terminal file manager (documentation)
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_19
+  subrepo: community
+  srcname: nnn
+  binname: nnn-fish-completion
+  visiblename: nnn-fish-completion
+  version: "4.9"
+  origversion: 4.9-r0
+  status: outdated
+  summary: Fish completions for nnn
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_19
+  subrepo: community
+  srcname: nnn
+  binname: nnn-plugins
+  visiblename: nnn-plugins
+  version: "4.9"
+  origversion: 4.9-r0
+  status: outdated
+  summary: nnn official plugins
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_19
+  subrepo: community
+  srcname: nnn
+  binname: nnn-zsh-completion
+  visiblename: nnn-zsh-completion
+  version: "4.9"
+  origversion: 4.9-r0
+  status: outdated
+  summary: Zsh completions for nnn
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_20
+  subrepo: community
+  srcname: nnn
+  binname: nnn
+  visiblename: nnn
+  version: "4.9"
+  origversion: 4.9-r0
+  status: outdated
+  summary: The unorthodox terminal file manager
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_20
+  subrepo: community
+  srcname: nnn
+  binname: nnn-bash-completion
+  visiblename: nnn-bash-completion
+  version: "4.9"
+  origversion: 4.9-r0
+  status: outdated
+  summary: Bash completions for nnn
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_20
+  subrepo: community
+  srcname: nnn
+  binname: nnn-doc
+  visiblename: nnn-doc
+  version: "4.9"
+  origversion: 4.9-r0
+  status: outdated
+  summary: The unorthodox terminal file manager (documentation)
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_20
+  subrepo: community
+  srcname: nnn
+  binname: nnn-fish-completion
+  visiblename: nnn-fish-completion
+  version: "4.9"
+  origversion: 4.9-r0
+  status: outdated
+  summary: Fish completions for nnn
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_20
+  subrepo: community
+  srcname: nnn
+  binname: nnn-plugins
+  visiblename: nnn-plugins
+  version: "4.9"
+  origversion: 4.9-r0
+  status: outdated
+  summary: nnn official plugins
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_20
+  subrepo: community
+  srcname: nnn
+  binname: nnn-zsh-completion
+  visiblename: nnn-zsh-completion
+  version: "4.9"
+  origversion: 4.9-r0
+  status: outdated
+  summary: Zsh completions for nnn
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_21
+  subrepo: community
+  srcname: nnn
+  binname: nnn
+  visiblename: nnn
+  version: "5.0"
+  origversion: 5.0-r0
+  status: outdated
+  summary: The unorthodox terminal file manager
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_21
+  subrepo: community
+  srcname: nnn
+  binname: nnn-bash-completion
+  visiblename: nnn-bash-completion
+  version: "5.0"
+  origversion: 5.0-r0
+  status: outdated
+  summary: Bash completions for nnn
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_21
+  subrepo: community
+  srcname: nnn
+  binname: nnn-doc
+  visiblename: nnn-doc
+  version: "5.0"
+  origversion: 5.0-r0
+  status: outdated
+  summary: The unorthodox terminal file manager (documentation)
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_21
+  subrepo: community
+  srcname: nnn
+  binname: nnn-fish-completion
+  visiblename: nnn-fish-completion
+  version: "5.0"
+  origversion: 5.0-r0
+  status: outdated
+  summary: Fish completions for nnn
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_21
+  subrepo: community
+  srcname: nnn
+  binname: nnn-plugins
+  visiblename: nnn-plugins
+  version: "5.0"
+  origversion: 5.0-r0
+  status: outdated
+  summary: nnn official plugins
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_21
+  subrepo: community
+  srcname: nnn
+  binname: nnn-zsh-completion
+  visiblename: nnn-zsh-completion
+  version: "5.0"
+  origversion: 5.0-r0
+  status: outdated
+  summary: Zsh completions for nnn
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_22
+  subrepo: community
+  srcname: nnn
+  binname: nnn
+  visiblename: nnn
+  version: "5.1"
+  origversion: 5.1-r0
+  status: outdated
+  summary: The unorthodox terminal file manager
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_22
+  subrepo: community
+  srcname: nnn
+  binname: nnn-bash-completion
+  visiblename: nnn-bash-completion
+  version: "5.1"
+  origversion: 5.1-r0
+  status: outdated
+  summary: Bash completions for nnn
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_22
+  subrepo: community
+  srcname: nnn
+  binname: nnn-doc
+  visiblename: nnn-doc
+  version: "5.1"
+  origversion: 5.1-r0
+  status: outdated
+  summary: The unorthodox terminal file manager (documentation)
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_22
+  subrepo: community
+  srcname: nnn
+  binname: nnn-fish-completion
+  visiblename: nnn-fish-completion
+  version: "5.1"
+  origversion: 5.1-r0
+  status: outdated
+  summary: Fish completions for nnn
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_22
+  subrepo: community
+  srcname: nnn
+  binname: nnn-plugins
+  visiblename: nnn-plugins
+  version: "5.1"
+  origversion: 5.1-r0
+  status: outdated
+  summary: nnn official plugins
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_22
+  subrepo: community
+  srcname: nnn
+  binname: nnn-zsh-completion
+  visiblename: nnn-zsh-completion
+  version: "5.1"
+  origversion: 5.1-r0
+  status: outdated
+  summary: Zsh completions for nnn
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_23
+  subrepo: community
+  srcname: nnn
+  binname: nnn
+  visiblename: nnn
+  version: "5.1"
+  origversion: 5.1-r0
+  status: outdated
+  summary: The unorthodox terminal file manager
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_23
+  subrepo: community
+  srcname: nnn
+  binname: nnn-bash-completion
+  visiblename: nnn-bash-completion
+  version: "5.1"
+  origversion: 5.1-r0
+  status: outdated
+  summary: Bash completions for nnn
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_23
+  subrepo: community
+  srcname: nnn
+  binname: nnn-doc
+  visiblename: nnn-doc
+  version: "5.1"
+  origversion: 5.1-r0
+  status: outdated
+  summary: The unorthodox terminal file manager (documentation)
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_23
+  subrepo: community
+  srcname: nnn
+  binname: nnn-fish-completion
+  visiblename: nnn-fish-completion
+  version: "5.1"
+  origversion: 5.1-r0
+  status: outdated
+  summary: Fish completions for nnn
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_23
+  subrepo: community
+  srcname: nnn
+  binname: nnn-plugins
+  visiblename: nnn-plugins
+  version: "5.1"
+  origversion: 5.1-r0
+  status: outdated
+  summary: nnn official plugins
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_23
+  subrepo: community
+  srcname: nnn
+  binname: nnn-zsh-completion
+  visiblename: nnn-zsh-completion
+  version: "5.1"
+  origversion: 5.1-r0
+  status: outdated
+  summary: Zsh completions for nnn
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_24
+  subrepo: community
+  srcname: nnn
+  binname: nnn
+  visiblename: nnn
+  version: "5.2"
+  origversion: 5.2-r0
+  status: outdated
+  summary: The unorthodox terminal file manager
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_24
+  subrepo: community
+  srcname: nnn
+  binname: nnn-bash-completion
+  visiblename: nnn-bash-completion
+  version: "5.2"
+  origversion: 5.2-r0
+  status: outdated
+  summary: Bash completions for nnn
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_24
+  subrepo: community
+  srcname: nnn
+  binname: nnn-doc
+  visiblename: nnn-doc
+  version: "5.2"
+  origversion: 5.2-r0
+  status: outdated
+  summary: The unorthodox terminal file manager (documentation)
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_24
+  subrepo: community
+  srcname: nnn
+  binname: nnn-fish-completion
+  visiblename: nnn-fish-completion
+  version: "5.2"
+  origversion: 5.2-r0
+  status: outdated
+  summary: Fish completions for nnn
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_24
+  subrepo: community
+  srcname: nnn
+  binname: nnn-plugins
+  visiblename: nnn-plugins
+  version: "5.2"
+  origversion: 5.2-r0
+  status: outdated
+  summary: nnn official plugins
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_24
+  subrepo: community
+  srcname: nnn
+  binname: nnn-zsh-completion
+  visiblename: nnn-zsh-completion
+  version: "5.2"
+  origversion: 5.2-r0
+  status: outdated
+  summary: Zsh completions for nnn
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_edge
+  subrepo: community
+  srcname: nnn
+  binname: nnn
+  visiblename: nnn
+  version: "5.2"
+  origversion: 5.2-r0
+  status: outdated
+  summary: The unorthodox terminal file manager
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_edge
+  subrepo: community
+  srcname: nnn
+  binname: nnn-bash-completion
+  visiblename: nnn-bash-completion
+  version: "5.2"
+  origversion: 5.2-r0
+  status: outdated
+  summary: Bash completions for nnn
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_edge
+  subrepo: community
+  srcname: nnn
+  binname: nnn-doc
+  visiblename: nnn-doc
+  version: "5.2"
+  origversion: 5.2-r0
+  status: outdated
+  summary: The unorthodox terminal file manager (documentation)
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_edge
+  subrepo: community
+  srcname: nnn
+  binname: nnn-fish-completion
+  visiblename: nnn-fish-completion
+  version: "5.2"
+  origversion: 5.2-r0
+  status: outdated
+  summary: Fish completions for nnn
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_edge
+  subrepo: community
+  srcname: nnn
+  binname: nnn-plugins
+  visiblename: nnn-plugins
+  version: "5.2"
+  origversion: 5.2-r0
+  status: outdated
+  summary: nnn official plugins
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_edge
+  subrepo: community
+  srcname: nnn
+  binname: nnn-zsh-completion
+  visiblename: nnn-zsh-completion
+  version: "5.2"
+  origversion: 5.2-r0
+  status: outdated
+  summary: Zsh completions for nnn
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - BSD-2-Clause
+- repo: alt_p11
+  srcname: nnn
+  binnames:
+    - nnn
+    - nnn-debuginfo
+  visiblename: nnn
+  version: "4.9"
+  origversion: 4.9-alt1
+  status: outdated
+  summary: A full-featured terminal file manager
+  maintainers:
+    - andy@altlinux.org
+  licenses:
+    - BSD-2-Clause and BSD-3-Clause
+  categories:
+    - File tools
+- repo: altsisyphus
+  srcname: nnn
+  binnames:
+    - nnn
+    - nnn-debuginfo
+  visiblename: nnn
+  version: "5.3"
+  origversion: 5.3-alt1
+  status: newest
+  summary: A full-featured terminal file manager
+  maintainers:
+    - andy@altlinux.org
+  licenses:
+    - BSD-2-Clause and BSD-3-Clause
+  categories:
+    - File tools
+- repo: arch
+  subrepo: extra
+  srcname: nnn
+  binname: nnn
+  visiblename: nnn
+  version: "5.3"
+  origversion: 5.3-1
+  status: newest
+  summary: The fastest terminal file manager ever written.
+  licenses:
+    - BSD-2-Clause
+- repo: aur
+  srcname: nnn-git
+  binname: nnn-git
+  visiblename: nnn-git
+  version: 4.6.r48.gf89ba775
+  origversion: 4.6.r48.gf89ba775-1
+  status: rolling
+  summary: The fastest terminal file manager ever written.
+  maintainers:
+    - env25@aur
+    - stig124@aur
+  licenses:
+    - BSD
+- repo: aur
+  srcname: nnn-icons
+  binname: nnn-icons
+  visiblename: nnn-icons
+  version: "5.2"
+  origversion: 5.2-1
+  status: outdated
+  summary: The fastest terminal file manager ever written. (with icon support)
+  maintainers:
+    - daringcuteseal@aur
+  licenses:
+    - BSD
+- repo: artix
+  subrepo: world
+  srcname: nnn
+  binname: nnn
+  visiblename: nnn
+  version: "5.3"
+  origversion: 5.3-1
+  status: newest
+  summary: The fastest terminal file manager ever written.
+  licenses:
+    - BSD-2-Clause
+- repo: chimera
+  subrepo: user
+  srcname: nnn
+  binname: nnn
+  visiblename: nnn
+  version: "5.2"
+  origversion: 5.2-r0
+  status: outdated
+  summary: Unorthodox terminal file manager
+  licenses:
+    - BSD-2-Clause
+- repo: chimera
+  subrepo: user
+  srcname: nnn
+  binname: nnn-bashcomp
+  visiblename: nnn-bashcomp
+  version: "5.2"
+  origversion: 5.2-r0
+  status: outdated
+  summary: Unorthodox terminal file manager (bash completions)
+  licenses:
+    - BSD-2-Clause
+- repo: chimera
+  subrepo: user
+  srcname: nnn
+  binname: nnn-doc
+  visiblename: nnn-doc
+  version: "5.2"
+  origversion: 5.2-r0
+  status: outdated
+  summary: Unorthodox terminal file manager (documentation)
+  licenses:
+    - BSD-2-Clause
+- repo: chimera
+  subrepo: user
+  srcname: nnn
+  binname: nnn-fishcomp
+  visiblename: nnn-fishcomp
+  version: "5.2"
+  origversion: 5.2-r0
+  status: outdated
+  summary: Unorthodox terminal file manager (fish completions)
+  licenses:
+    - BSD-2-Clause
+- repo: chimera
+  subrepo: user
+  srcname: nnn
+  binname: nnn-man
+  visiblename: nnn-man
+  version: "5.2"
+  origversion: 5.2-r0
+  status: outdated
+  summary: Unorthodox terminal file manager (manual pages)
+  licenses:
+    - BSD-2-Clause
+- repo: chimera
+  subrepo: user
+  srcname: nnn
+  binname: nnn-zshcomp
+  visiblename: nnn-zshcomp
+  version: "5.2"
+  origversion: 5.2-r0
+  status: outdated
+  summary: Unorthodox terminal file manager (zsh completions)
+  licenses:
+    - BSD-2-Clause
+- repo: chromebrew
+  srcname: nnn
+  visiblename: nnn
+  version: "5.3"
+  origversion: null
+  status: newest
+  summary: Full-featured terminal file manager.
+  licenses:
+    - BSD-2 Clause
+- repo: crux_37
+  subrepo: contrib
+  srcname: nnn
+  visiblename: nnn
+  version: "5.1"
+  origversion: null
+  status: outdated
+  summary: Tiny, lightning fast, feature-packed file manager
+  maintainers:
+    - tbier@posteo.de
+- repo: crux_38
+  subrepo: contrib
+  srcname: nnn
+  visiblename: nnn
+  version: "5.3"
+  origversion: null
+  status: newest
+  summary: Tiny, lightning fast, feature-packed file manager
+  maintainers:
+    - tbier@posteo.de
+- repo: cygwin
+  srcname: nnn
+  binname: nnn
+  visiblename: nnn
+  version: "5.0"
+  origversion: 5.0-1
+  status: outdated
+  summary: a full-featured terminal file manager
+  maintainers:
+    - federico.kircheis@cygwin
+  licenses:
+    - BSD-2-Clause
+  categories:
+    - Utils
+- repo: cygwin
+  srcname: nnn
+  binname: nnn-debuginfo
+  visiblename: nnn-debuginfo
+  version: "5.0"
+  origversion: 5.0-1
+  status: outdated
+  summary: a full-featured terminal file manager
+  maintainers:
+    - federico.kircheis@cygwin
+  licenses:
+    - BSD-2-Clause
+  categories:
+    - Debug
+- repo: debian_11
+  subrepo: bullseye/main
+  srcname: nnn
+  binnames:
+    - nnn
+  visiblename: nnn
+  version: "3.5"
+  origversion: 3.5-1
+  status: outdated
+  maintainers:
+    - szlin@debian.org
+  categories:
+    - misc
+- repo: debian_12
+  subrepo: bookworm/main
+  srcname: nnn
+  binnames:
+    - nnn
+  visiblename: nnn
+  version: "4.7"
+  origversion: 4.7-1
+  status: outdated
+  maintainers:
+    - szlin@debian.org
+  categories:
+    - misc
+- repo: debian_13
+  subrepo: trixie/main
+  srcname: nnn
+  binnames:
+    - nnn
+  visiblename: nnn
+  version: "5.0"
+  origversion: 5.0-1
+  status: outdated
+  maintainers:
+    - szlin@debian.org
+  categories:
+    - misc
+- repo: debian_14
+  subrepo: forky/main
+  srcname: nnn
+  binnames:
+    - nnn
+  visiblename: nnn
+  version: "5.3"
+  origversion: 5.3-1
+  status: newest
+  maintainers:
+    - szlin@debian.org
+  categories:
+    - misc
+- repo: debian_unstable
+  subrepo: sid/main
+  srcname: nnn
+  binnames:
+    - nnn
+  visiblename: nnn
+  version: "5.3"
+  origversion: 5.3-1
+  status: newest
+  maintainers:
+    - szlin@debian.org
+  categories:
+    - misc
+- repo: deepin_unstable
+  subrepo: main
+  srcname: nnn
+  binnames:
+    - nnn
+  visiblename: nnn
+  version: "2.2"
+  origversion: 2.2-2
+  status: outdated
+  maintainers:
+    - szlin@debian.org
+- repo: devuan_4_0
+  subrepo: chimaera/main
+  srcname: nnn
+  binnames:
+    - nnn
+  visiblename: nnn
+  version: "3.5"
+  origversion: 3.5-1
+  status: outdated
+  maintainers:
+    - szlin@debian.org
+  categories:
+    - misc
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: nnn
+  binnames:
+    - nnn
+  visiblename: nnn
+  version: "5.3"
+  origversion: 5.3-1
+  status: newest
+  maintainers:
+    - szlin@debian.org
+  categories:
+    - misc
+- repo: epel_7
+  srcname: nnn
+  visiblename: nnn
+  version: "4.3"
+  origversion: 4.3-1.el7
+  status: outdated
+  summary: The missing terminal file browser for X
+  licenses:
+    - BSD
+  categories:
+    - Unspecified
+- repo: epel_8
+  srcname: nnn
+  visiblename: nnn
+  version: "4.6"
+  origversion: 4.6-1.el8
+  status: outdated
+  summary: The missing terminal file browser for X
+  licenses:
+    - BSD-2-Clause
+  categories:
+    - Unspecified
+- repo: epel_9
+  srcname: nnn
+  binnames:
+    - nnn
+    - nnn-debuginfo
+    - nnn-debugsource
+  visiblename: nnn
+  version: "4.6"
+  origversion: 4.6-1.el9
+  status: outdated
+  summary: The missing terminal file browser for X
+  licenses:
+    - BSD-2-Clause
+  categories:
+    - Unspecified
+- repo: fedora_39
+  subrepo: release
+  srcname: nnn
+  binnames:
+    - nnn
+    - nnn-debuginfo
+    - nnn-debugsource
+  visiblename: nnn
+  version: "4.9"
+  origversion: 4.9-1.fc39
+  status: legacy
+  summary: The missing terminal file browser for X
+  licenses:
+    - BSD-2-Clause
+  categories:
+    - Unspecified
+- repo: fedora_39
+  subrepo: updates
+  srcname: nnn
+  binnames:
+    - nnn
+    - nnn-debuginfo
+    - nnn-debugsource
+  visiblename: nnn
+  version: "5.0"
+  origversion: 5.0-1.fc39
+  status: outdated
+  summary: The missing terminal file browser for X
+  licenses:
+    - BSD-2-Clause
+  categories:
+    - Unspecified
+- repo: fedora_40
+  subrepo: release
+  srcname: nnn
+  binnames:
+    - nnn
+    - nnn-debuginfo
+    - nnn-debugsource
+  visiblename: nnn
+  version: "4.9"
+  origversion: 4.9-3.fc40
+  status: legacy
+  summary: The missing terminal file browser for X
+  licenses:
+    - BSD-2-Clause
+  categories:
+    - Unspecified
+- repo: fedora_40
+  subrepo: updates
+  srcname: nnn
+  binnames:
+    - nnn
+    - nnn-debuginfo
+    - nnn-debugsource
+  visiblename: nnn
+  version: "5.0"
+  origversion: 5.0-1.fc40
+  status: outdated
+  summary: The missing terminal file browser for X
+  licenses:
+    - BSD-2-Clause
+  categories:
+    - Unspecified
+- repo: fedora_41
+  subrepo: updates
+  srcname: nnn
+  binnames:
+    - nnn
+  visiblename: nnn
+  version: "5.1"
+  origversion: 5.1-1.fc41
+  status: outdated
+  summary: The missing terminal file browser for X
+  licenses:
+    - BSD-2-Clause
+  categories:
+    - Unspecified
+- repo: fedora_41
+  subrepo: release
+  srcname: nnn
+  binnames:
+    - nnn
+  visiblename: nnn
+  version: "5.0"
+  origversion: 5.0-1.fc41
+  status: legacy
+  summary: The missing terminal file browser for X
+  licenses:
+    - BSD-2-Clause
+  categories:
+    - Unspecified
+- repo: fedora_42
+  subrepo: updates
+  srcname: nnn
+  binnames:
+    - nnn
+  visiblename: nnn
+  version: "5.2"
+  origversion: 5.2-1.fc42
+  status: outdated
+  summary: The missing terminal file browser for X
+  licenses:
+    - BSD-2-Clause
+  categories:
+    - Unspecified
+- repo: fedora_42
+  subrepo: release
+  srcname: nnn
+  binnames:
+    - nnn
+  visiblename: nnn
+  version: "5.1"
+  origversion: 5.1-1.fc42
+  status: legacy
+  summary: The missing terminal file browser for X
+  licenses:
+    - BSD-2-Clause
+  categories:
+    - Unspecified
+- repo: fedora_43
+  subrepo: updates
+  srcname: nnn
+  binnames:
+    - nnn
+  visiblename: nnn
+  version: "5.3"
+  origversion: 5.3-1.fc43
+  status: newest
+  summary: The missing terminal file browser for X
+  licenses:
+    - BSD-2-Clause
+  categories:
+    - Unspecified
+- repo: fedora_43
+  subrepo: release
+  srcname: nnn
+  binnames:
+    - nnn
+  visiblename: nnn
+  version: "5.1"
+  origversion: 5.1-2.fc43
+  status: legacy
+  summary: The missing terminal file browser for X
+  licenses:
+    - BSD-2-Clause
+  categories:
+    - Unspecified
+- repo: fedora_44
+  subrepo: release
+  srcname: nnn
+  binnames:
+    - nnn
+  visiblename: nnn
+  version: "5.2"
+  origversion: 5.2-1.fc44
+  status: legacy
+  summary: The missing terminal file browser for X
+  licenses:
+    - BSD-2-Clause
+  categories:
+    - Unspecified
+- repo: fedora_44
+  subrepo: updates
+  srcname: nnn
+  binnames:
+    - nnn
+  visiblename: nnn
+  version: "5.3"
+  origversion: 5.3-1.fc44
+  status: newest
+  summary: The missing terminal file browser for X
+  licenses:
+    - BSD-2-Clause
+  categories:
+    - Unspecified
+- repo: fedora_rawhide
+  subrepo: development
+  srcname: nnn
+  binnames:
+    - nnn
+  visiblename: nnn
+  version: "5.3"
+  origversion: 5.3-1.fc46
+  status: newest
+  summary: The missing terminal file browser for X
+  licenses:
+    - BSD-2-Clause
+  categories:
+    - Unspecified
+- repo: freebsd
+  srcname: misc/nnn
+  binname: nnn
+  visiblename: misc/nnn
+  version: "5.3"
+  origversion: null
+  status: newest
+  summary: Missing terminal file browser for X
+  maintainers:
+    - thindil@laeran.pl.eu.org
+  categories:
+    - misc
+- repo: gentoo
+  srcname: app-misc/nnn
+  visiblename: app-misc/nnn
+  version: "5.2"
+  origversion: null
+  status: outdated
+  summary: The missing terminal file browser for X
+  maintainers:
+    - gentoo-bugs@ares-macrotechnology.com
+    - proxy-maint@gentoo.org
+  licenses:
+    - BSD-2
+  categories:
+    - app-misc
+- repo: gentoo
+  srcname: app-misc/nnn
+  visiblename: app-misc/nnn
+  version: "5.1"
+  origversion: null
+  status: legacy
+  summary: The missing terminal file browser for X
+  maintainers:
+    - gentoo-bugs@ares-macrotechnology.com
+    - proxy-maint@gentoo.org
+  licenses:
+    - BSD-2
+  categories:
+    - app-misc
+- repo: gnuguix
+  srcname: nnn
+  binname: nnn
+  visiblename: nnn
+  version: "5.3"
+  origversion: null
+  status: newest
+  summary: Terminal file browser
+- repo: haikuports_master
+  srcname: app-misc/nnn
+  visiblename: app-misc/nnn
+  version: "5.1"
+  origversion: null
+  status: outdated
+  categories:
+    - app-misc
+- repo: homebrew
+  srcname: nnn
+  visiblename: nnn
+  version: "5.3"
+  origversion: null
+  status: newest
+  summary: Tiny, lightning fast, feature-packed file manager
+- repo: homebrew
+  srcname: nnn
+  visiblename: nnn
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Tiny, lightning fast, feature-packed file manager
+- repo: liguros_stable
+  srcname: app-misc/nnn
+  visiblename: app-misc/nnn
+  version: "5.1"
+  origversion: null
+  status: outdated
+  summary: The missing terminal file browser for X
+  maintainers:
+    - gentoo-bugs@ares-macrotechnology.com
+    - proxy-maint@gentoo.org
+  licenses:
+    - BSD-2
+  categories:
+    - app-misc
+- repo: liguros_stable
+  srcname: app-misc/nnn
+  visiblename: app-misc/nnn
+  version: "5.0"
+  origversion: null
+  status: legacy
+  summary: The missing terminal file browser for X
+  maintainers:
+    - gentoo-bugs@ares-macrotechnology.com
+    - proxy-maint@gentoo.org
+  licenses:
+    - BSD-2
+  categories:
+    - app-misc
+- repo: liguros_develop
+  srcname: app-misc/nnn
+  visiblename: app-misc/nnn
+  version: "5.1"
+  origversion: null
+  status: outdated
+  summary: The missing terminal file browser for X
+  maintainers:
+    - gentoo-bugs@ares-macrotechnology.com
+    - proxy-maint@gentoo.org
+  licenses:
+    - BSD-2
+  categories:
+    - app-misc
+- repo: liguros_develop
+  srcname: app-misc/nnn
+  visiblename: app-misc/nnn
+  version: "5.0"
+  origversion: null
+  status: legacy
+  summary: The missing terminal file browser for X
+  maintainers:
+    - gentoo-bugs@ares-macrotechnology.com
+    - proxy-maint@gentoo.org
+  licenses:
+    - BSD-2
+  categories:
+    - app-misc
+- repo: macports
+  srcname: sysutils/nnn
+  binname: nnn
+  visiblename: nnn
+  version: "5.3"
+  origversion: null
+  status: newest
+  summary: tiny, lightning fast, feature-packed file manager
+  maintainers:
+    - mcalhoun@macports
+    - marcuscalhoun-lopez@github
+  licenses:
+    - BSD
+  categories:
+    - sysutils
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: nnn
+  binname: nnn
+  visiblename: nnn
+  version: "5.3"
+  origversion: 5.3-1
+  status: newest
+  summary: The fastest terminal file manager ever written.
+  licenses:
+    - BSD-2-Clause
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: nnn
+  binname: nnn
+  visiblename: nnn
+  version: "5.3"
+  origversion: 5.3-1
+  status: newest
+  summary: The fastest terminal file manager ever written.
+  licenses:
+    - BSD-2-Clause
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: nnn
+  binname: nnn
+  visiblename: nnn
+  version: "5.3"
+  origversion: 5.3-1
+  status: newest
+  summary: The fastest terminal file manager ever written.
+  licenses:
+    - BSD-2-Clause
+- repo: msys2_msys2
+  subrepo: x86_64
+  srcname: nnn
+  binname: nnn
+  visiblename: nnn
+  version: "5.3"
+  origversion: 5.3-1
+  status: newest
+  summary: The fastest terminal file manager ever written.
+  licenses:
+    - spdx:BSD-2-Clause
+- repo: nix_stable_24_05
+  srcname: nnn
+  visiblename: nnn
+  version: "4.9"
+  origversion: null
+  status: outdated
+  summary: Small ncurses-based file browser forked from noice
+  maintainers:
+    - brightone@protonmail.com
+  licenses:
+    - BSD-2-Clause
+- repo: nix_stable_24_11
+  srcname: nnn
+  visiblename: nnn
+  version: "5.0"
+  origversion: null
+  status: outdated
+  summary: Small ncurses-based file browser forked from noice
+  maintainers:
+    - brightone@protonmail.com
+  licenses:
+    - BSD-2-Clause
+- repo: nix_stable_25_05
+  srcname: nnn
+  visiblename: nnn
+  version: "5.1"
+  origversion: null
+  status: outdated
+  summary: Small ncurses-based file browser forked from noice
+  maintainers:
+    - brightone@protonmail.com
+  licenses:
+    - BSD-2-Clause
+- repo: nix_stable_25_11
+  srcname: nnn
+  visiblename: nnn
+  version: "5.1"
+  origversion: null
+  status: outdated
+  summary: Small ncurses-based file browser forked from noice
+  maintainers:
+    - brightone@protonmail.com
+  licenses:
+    - BSD-2-Clause
+- repo: nix_stable_26_05
+  srcname: nnn
+  visiblename: nnn
+  version: "5.2"
+  origversion: null
+  status: outdated
+  summary: Small ncurses-based file browser forked from noice
+  maintainers:
+    - sikmir@disroot.org
+  licenses:
+    - BSD-2-Clause
+- repo: nix_unstable
+  srcname: nnn
+  visiblename: nnn
+  version: "5.3"
+  origversion: null
+  status: newest
+  summary: Small ncurses-based file browser forked from noice
+  maintainers:
+    - sikmir@disroot.org
+  licenses:
+    - BSD-2-Clause
+- repo: openbsd
+  srcname: sysutils/nnn
+  binname: nnn
+  visiblename: sysutils/nnn
+  version: "5.3"
+  origversion: 5.3p0
+  status: newest
+  summary: the missing terminal file browser for X
+  maintainers:
+    - horrad@horrad.de
+  categories:
+    - sysutils
+- repo: openbsd
+  srcname: sysutils/nnn
+  binname: nnn
+  visiblename: sysutils/nnn
+  version: "5.3"
+  origversion: 5.3p0
+  status: newest
+  summary: the missing terminal file browser for X
+  maintainers:
+    - horrad@horrad.de
+  categories:
+    - sysutils
+- repo: openmandriva_6_0
+  subrepo: main/release
+  srcname: nnn
+  binnames:
+    - nnn
+  visiblename: nnn
+  version: "5.1"
+  origversion: 5.1-1
+  status: outdated
+  summary: The missing terminal file browser for X
+  maintainers:
+    - angrypenguinpoland@gmail.com
+  licenses:
+    - BSD
+  categories:
+    - File tools
+- repo: openmandriva_rolling
+  subrepo: main/release
+  srcname: nnn
+  binnames:
+    - nnn
+  visiblename: nnn
+  version: "5.1"
+  origversion: 5.1-1
+  status: outdated
+  summary: The missing terminal file browser for X
+  maintainers:
+    - angrypenguinpoland@gmail.com
+  licenses:
+    - BSD
+  categories:
+    - File tools
+- repo: openmandriva_cooker
+  subrepo: main/release
+  srcname: nnn
+  binnames:
+    - nnn
+  visiblename: nnn
+  version: "5.2"
+  origversion: 5.2-1
+  status: outdated
+  summary: The missing terminal file browser for X
+  maintainers:
+    - angrypenguinpoland@gmail.com
+  licenses:
+    - BSD
+  categories:
+    - File tools
+- repo: opensuse_leap_15_5
+  subrepo: main/oss
+  srcname: nnn
+  visiblename: nnn
+  version: "4.7"
+  origversion: 4.7-bp155.1.4
+  status: outdated
+  summary: Terminal based file browser
+  licenses:
+    - BSD-2-Clause
+  categories:
+    - Productivity/File utilities
+- repo: opensuse_leap_15_6
+  subrepo: main/oss
+  srcname: nnn
+  visiblename: nnn
+  version: "4.9"
+  origversion: 4.9-bp156.1.5
+  status: outdated
+  summary: Terminal based file browser
+  licenses:
+    - BSD-2-Clause
+  categories:
+    - Productivity/File utilities
+- repo: opensuse_tumbleweed
+  subrepo: src-oss
+  srcname: nnn
+  binnames:
+    - nnn
+    - nnn-debuginfo
+    - nnn-debugsource
+    - nnn-bash-completion
+    - nnn-fish-completion
+    - nnn-zsh-completion
+  visiblename: nnn
+  version: "5.2"
+  origversion: 5.2-1.4
+  status: outdated
+  summary: Terminal based file browser
+  licenses:
+    - BSD-2-Clause
+  categories:
+    - Productivity/File utilities
+- repo: openwrt_23_05_x86_64
+  subrepo: packages
+  srcname: feeds/packages/utils/nnn
+  binname: nnn
+  visiblename: nnn
+  version: "4.4"
+  origversion: 4.4-1
+  status: outdated
+  maintainers:
+    - pepe.schlehofer@gmail.com
+  categories:
+    - utils
+- repo: openwrt_24_10_x86_64
+  subrepo: packages
+  srcname: feeds/packages/utils/nnn
+  binname: nnn
+  visiblename: nnn
+  version: "5.1"
+  origversion: 5.1-r1
+  status: outdated
+  maintainers:
+    - pepe.schlehofer@gmail.com
+  categories:
+    - utils
+- repo: parabola
+  subrepo: extra
+  srcname: nnn
+  binname: nnn
+  visiblename: nnn
+  version: "5.3"
+  origversion: 5.3-1
+  status: newest
+  summary: The fastest terminal file manager ever written.
+  licenses:
+    - BSD-2-Clause
+- repo: pardus_21
+  subrepo: main
+  srcname: nnn
+  binnames:
+    - nnn
+  visiblename: nnn
+  version: "3.5"
+  origversion: 3.5-1
+  status: outdated
+  maintainers:
+    - szlin@debian.org
+  categories:
+    - misc
+- repo: parrot
+  subrepo: parrot/main
+  srcname: nnn
+  binnames:
+    - nnn
+  visiblename: nnn
+  version: "5.0"
+  origversion: 5.0-1
+  status: outdated
+  maintainers:
+    - szlin@debian.org
+  categories:
+    - misc
+- repo: parrot
+  subrepo: parrot-updates/main
+  srcname: nnn
+  binnames:
+    - nnn
+  visiblename: nnn
+  version: "5.0"
+  origversion: 5.0-1
+  status: outdated
+  maintainers:
+    - szlin@debian.org
+  categories:
+    - misc
+- repo: pclinuxos
+  srcname: nnn
+  visiblename: nnn
+  version: 4.1.1
+  origversion: 4.1.1-1pclos2021
+  status: outdated
+  summary: Console terminal file browser for X
+  categories:
+    - File tools
+- repo: pisi_main
+  subrepo: main
+  srcname: util/misc/nnn
+  visiblename: nnn
+  version: "4.9"
+  origversion: null
+  status: outdated
+  summary: n³ The unorthodox terminal file manager.
+  maintainers:
+    - admins@pisilinux.org
+  licenses:
+    - BSD-2-Clause
+  categories:
+    - app:console
+- repo: pkgsrc_2026_1
+  srcname: sysutils/nnn
+  binname: nnn
+  visiblename: sysutils/nnn
+  version: "5.1"
+  origversion: null
+  status: outdated
+  summary: Optimized, feature-packed terminal file manager
+  maintainers:
+    - sjmulder@netbsd.org
+  categories:
+    - sysutils
+- repo: stalix
+  srcname: bin/nnn
+  binname: bin/nnn
+  visiblename: bin/nnn
+  version: "5.3"
+  origversion: null
+  status: newest
+  maintainers:
+    - anton@samokhvalov.xyz
+  categories:
+    - bin
+- repo: pkgsrc_2026_2
+  srcname: sysutils/nnn
+  binname: nnn
+  visiblename: sysutils/nnn
+  version: "5.1"
+  origversion: null
+  status: outdated
+  summary: Optimized, feature-packed terminal file manager
+  maintainers:
+    - sjmulder@netbsd.org
+  categories:
+    - sysutils
+- repo: pkgsrc_current
+  srcname: sysutils/nnn
+  binname: nnn
+  visiblename: sysutils/nnn
+  version: "5.1"
+  origversion: null
+  status: outdated
+  summary: Optimized, feature-packed terminal file manager
+  maintainers:
+    - sjmulder@netbsd.org
+  categories:
+    - sysutils
+- repo: pld
+  srcname: nnn
+  visiblename: nnn
+  version: "5.2"
+  origversion: 5.2-1
+  status: outdated
+- repo: pureos_amber
+  subrepo: amber/main
+  srcname: nnn
+  binnames:
+    - nnn
+  visiblename: nnn
+  version: "2.2"
+  origversion: 2.2-2
+  status: outdated
+  maintainers:
+    - szlin@debian.org
+  categories:
+    - misc
+- repo: pureos_byzantium
+  subrepo: byzantium/main
+  srcname: nnn
+  binnames:
+    - nnn
+  visiblename: nnn
+  version: "3.5"
+  origversion: 3.5-1
+  status: outdated
+  maintainers:
+    - szlin@debian.org
+  categories:
+    - misc
+- repo: pureos_landing
+  subrepo: landing/main
+  srcname: nnn
+  binnames:
+    - nnn
+  visiblename: nnn
+  version: "5.0"
+  origversion: 5.0-1
+  status: outdated
+  maintainers:
+    - szlin@debian.org
+  categories:
+    - misc
+- repo: raspbian_oldstable
+  subrepo: main
+  srcname: nnn
+  binnames:
+    - nnn
+  visiblename: nnn
+  version: "4.7"
+  origversion: 4.7-1
+  status: outdated
+  maintainers:
+    - szlin@debian.org
+  categories:
+    - misc
+- repo: raspbian_stable
+  subrepo: main
+  srcname: nnn
+  binnames:
+    - nnn
+  visiblename: nnn
+  version: "5.0"
+  origversion: 5.0-1
+  status: outdated
+  maintainers:
+    - szlin@debian.org
+  categories:
+    - misc
+- repo: raspbian_testing
+  subrepo: main
+  srcname: nnn
+  binnames:
+    - nnn
+  visiblename: nnn
+  version: "5.1"
+  origversion: 5.1-1
+  status: outdated
+  maintainers:
+    - szlin@debian.org
+  categories:
+    - misc
+- repo: ravenports
+  srcname: nnn
+  binname: nnn
+  visiblename: nnn
+  version: "5.3"
+  origversion: null
+  status: newest
+  summary: The unorthodox terminal file manager
+  maintainers:
+    - fallback-mnt-ravenports@repology
+  categories:
+    - deskutils
+- repo: rosa_2019_1
+  subrepo: contrib/release
+  srcname: nnn
+  binnames:
+    - nnn
+  visiblename: nnn
+  version: "4.7"
+  origversion: 4.7-1
+  status: outdated
+  summary: The missing terminal file browser for X
+  maintainers:
+    - alexander@mezon.ru
+  licenses:
+    - BSD
+  categories:
+    - File tools
+- repo: rosa_13
+  subrepo: contrib/release
+  srcname: nnn
+  binnames:
+    - nnn
+    - nnn-debuginfo
+    - nnn-debugsource
+  visiblename: nnn
+  version: "5.1"
+  origversion: 5.1-1
+  status: outdated
+  summary: The missing terminal file browser for X
+  maintainers:
+    - alexander@mezon.ru
+  licenses:
+    - BSD
+  categories:
+    - File tools
+- repo: serenityos
+  srcname: nnn
+  visiblename: nnn
+  version: "4.8"
+  origversion: null
+  status: outdated
+  summary: The unorthodox terminal file manager
+  categories:
+    - File Manager
+- repo: side
+  srcname: runtime/_base_/nnn
+  visiblename: nnn
+  version: "5.1"
+  origversion: null
+  status: outdated
+  summary: n³ The unorthodox terminal file manager.
+  maintainers:
+    - uglyside@yandex.ru
+  licenses:
+    - BSD-2-Clause
+- repo: slackbuilds
+  srcname: system/nnn
+  visiblename: system/nnn
+  version: "5.3"
+  origversion: null
+  status: newest
+  maintainers:
+    - ricardsonwilliams+slackbuild@gmail.com
+  categories:
+    - system
+- repo: solus
+  srcname: nnn
+  binname: nnn
+  visiblename: nnn
+  version: "5.3"
+  origversion: null
+  status: newest
+  summary: A simple console file manager forked from Noice.
+  maintainers:
+    - david@davidjharder.ca
+  licenses:
+    - BSD-2-Clause
+  categories:
+    - system.utils
+- repo: solus
+  srcname: nnn
+  binname: nnn-dbginfo
+  visiblename: nnn-dbginfo
+  version: "5.3"
+  origversion: null
+  status: newest
+  summary: Debug symbols for nnn
+  maintainers:
+    - david@davidjharder.ca
+  licenses:
+    - BSD-2-Clause
+  categories:
+    - debug
+- repo: spack
+  srcname: nnn
+  visiblename: nnn
+  version: "5.0"
+  origversion: null
+  status: outdated
+  maintainers:
+    - fthaler@spack
+  licenses:
+    - BSD-2-Clause
+- repo: stalix_dev
+  srcname: bin/nnn
+  binname: bin/nnn
+  visiblename: bin/nnn
+  version: "5.3"
+  origversion: null
+  status: newest
+  maintainers:
+    - anton@samokhvalov.xyz
+  categories:
+    - bin
+- repo: termux
+  srcname: nnn
+  binname: nnn
+  visiblename: nnn
+  version: "5.3"
+  origversion: null
+  status: newest
+  summary: Free, fast, friendly file browser
+  maintainers:
+    - termux@github
+- repo: trisquel_10_0
+  subrepo: nabia/main
+  srcname: nnn
+  binnames:
+    - nnn
+  visiblename: nnn
+  version: "3.0"
+  origversion: 3.0-2
+  status: outdated
+  maintainers:
+    - szlin@debian.org
+  categories:
+    - universe/misc
+- repo: trisquel_11_0
+  subrepo: aramo/main
+  srcname: nnn
+  binnames:
+    - nnn
+  visiblename: nnn
+  version: "4.3"
+  origversion: 4.3-1
+  status: outdated
+  maintainers:
+    - szlin@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_18_04
+  subrepo: bionic/universe
+  srcname: nnn
+  binnames:
+    - nnn
+  visiblename: nnn
+  version: "1.7"
+  origversion: 1.7-1
+  status: outdated
+  maintainers:
+    - szlin@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_20_04
+  subrepo: focal/universe
+  srcname: nnn
+  binnames:
+    - nnn
+  visiblename: nnn
+  version: "3.0"
+  origversion: 3.0-2
+  status: outdated
+  maintainers:
+    - szlin@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_22_04
+  subrepo: jammy/universe
+  srcname: nnn
+  binnames:
+    - nnn
+  visiblename: nnn
+  version: "4.3"
+  origversion: 4.3-1
+  status: outdated
+  maintainers:
+    - szlin@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_24_04
+  subrepo: noble/universe
+  srcname: nnn
+  binnames:
+    - nnn
+  visiblename: nnn
+  version: "4.9"
+  origversion: 4.9-1build2
+  status: outdated
+  maintainers:
+    - ubuntu-devel-discuss@lists.ubuntu.com
+  categories:
+    - universe/misc
+- repo: ubuntu_25_04
+  subrepo: plucky/universe
+  srcname: nnn
+  binnames:
+    - nnn
+  visiblename: nnn
+  version: "5.0"
+  origversion: 5.0-1
+  status: outdated
+  maintainers:
+    - szlin@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_25_10
+  subrepo: questing/universe
+  srcname: nnn
+  binnames:
+    - nnn
+  visiblename: nnn
+  version: "5.0"
+  origversion: 5.0-1
+  status: outdated
+  maintainers:
+    - szlin@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_26_04
+  subrepo: resolute/universe
+  srcname: nnn
+  binnames:
+    - nnn
+  visiblename: nnn
+  version: "5.1"
+  origversion: 5.1-1
+  status: outdated
+  maintainers:
+    - szlin@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_26_10
+  subrepo: stonking/universe
+  srcname: nnn
+  binnames:
+    - nnn
+  visiblename: nnn
+  version: "5.3"
+  origversion: 5.3-1
+  status: newest
+  maintainers:
+    - szlin@debian.org
+  categories:
+    - universe/misc
+- repo: void_x86_64
+  subrepo: x86_64
+  srcname: nnn
+  binname: nnn
+  visiblename: nnn
+  version: "5.3"
+  origversion: "5.3_2"
+  status: newest
+  summary: Missing terminal file browser for X
+  maintainers:
+    - orphan@voidlinux.org
+  licenses:
+    - BSD-2-Clause
+- repo: vylen
+  subrepo: extra
+  srcname: nnn
+  visiblename: nnn
+  version: "5.3"
+  origversion: 5.3-1
+  status: newest
+  summary: Free, fast, friendly file browser
+  maintainers:
+    - fallback-mnt-vylen@repology
+- repo: wikidata
+  srcname: Q69904311
+  visiblename: nnn
+  version: "5.3"
+  origversion: null
+  status: newest
+  summary: free and open-source terminal file manager
+  licenses:
+    - 2-clause BSD License
