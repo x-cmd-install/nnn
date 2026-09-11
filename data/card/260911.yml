@@ -7,7 +7,7 @@ about:
   latestVersion: "v5.3"
   latestRelease: "v5.3"
   latestPrerelease: "v3.7"
-  collectedAt: 2026-09-11T04:27:55Z
+  collectedAt: 2026-09-11T20:38:34Z
 timeline:
   created: 2016-08-20
   lastCommit: 2026-09-09
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-15
   lastPrerelease: 2021-04-13
 popularity:
-  star: 21878
+  star: 21877
   watcher: 141
   fork: 817
   release: 44
@@ -91,7 +91,7 @@ total:
   commit: 4659
 ---
 path: /home/runner/.x-repo/github.com/jarun/nnn
-collectedAt: 2026-09-11T04:27:57Z
+collectedAt: 2026-09-11T20:38:38Z
 loc:
   C:
     code: 8702
