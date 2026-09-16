@@ -14,11 +14,11 @@ x install nnn
 
 ## Code insight
 
-Total: **18,357** lines of code across **80** files in the top 5 languages.
+Total: **18,448** lines of code across **80** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 8,702 | 872 | 1,619 | 3 |
+| C | 8,793 | 874 | 1,640 | 3 |
 | CHeader | 4,429 | 280 | 89 | 7 |
 | Sh | 2,687 | 1,163 | 574 | 60 |
 | Bash | 1,356 | 317 | 152 | 8 |
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v5.3` (2026-08-15)
-- **Last commit**: 2026-09-09
+- **Last commit**: 2026-09-15
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 21,882 · **Forks**: 818 · **Open issues**: 1,050 · **Contributors**: 203
+- **Stars**: 21,882 · **Forks**: 817 · **Open issues**: 1,051 · **Contributors**: 203
 
 ## Totals (cumulative)
 
-- **Releases**: 44 · **Merged PRs**: 683 · **Open PRs**: 0 · **Closed issues**: 1044 · **Open issues**: 6 · **Commits**: 4659
+- **Releases**: 44 · **Merged PRs**: 683 · **Open PRs**: 0 · **Closed issues**: 1047 · **Open issues**: 4 · **Commits**: 4663
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 0 | 4 | 0 | 2 | 2 | 28 |
-| last60d | 2026-07-17 | 1 | 5 | 0 | 5 | 2 | 40 |
-| 90d | 2026-06-17 | 1 | 5 | 0 | 6 | 2 | 45 |
-| last180d | 2026-03-19 | 1 | 9 | 0 | 12 | 5 | 89 |
-| 360d | 2025-09-20 | 2 | 16 | 0 | 34 | 5 | 162 |
-| last720d | 2024-09-25 | 3 | 48 | 0 | 54 | 5 | 284 |
+| 30d | 2026-08-17 | 0 | 3 | 0 | 5 | 0 | 32 |
+| last60d | 2026-07-18 | 1 | 5 | 0 | 8 | 0 | 44 |
+| 90d | 2026-06-18 | 1 | 5 | 0 | 9 | 0 | 49 |
+| last180d | 2026-03-20 | 1 | 9 | 0 | 15 | 3 | 93 |
+| 360d | 2025-09-21 | 2 | 16 | 0 | 37 | 3 | 166 |
+| last720d | 2024-09-26 | 3 | 48 | 0 | 57 | 3 | 288 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for nnn lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T04:46:51Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T04:43:02Z._
