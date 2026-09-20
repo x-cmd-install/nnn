@@ -4,7 +4,7 @@
 
 n³ The unorthodox terminal file manager
 
-![nnn](https://repo.x-cmd.io/nnn.svg)
+[![x-cmd/install — nnn Code Quality Monitoring Repo Card](https://repo.x-cmd.io/nnn.svg)](https://x-cmd.com/install/nnn)
 
 ## Install
 
@@ -14,11 +14,11 @@ x install nnn
 
 ## Code insight
 
-Total: **18,453** lines of code across **80** files in the top 5 languages.
+Total: **18,464** lines of code across **80** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 8,793 | 874 | 1,640 | 3 |
+| C | 8,804 | 874 | 1,641 | 3 |
 | CHeader | 4,429 | 280 | 89 | 7 |
 | Sh | 2,687 | 1,163 | 574 | 60 |
 | Bash | 1,356 | 317 | 152 | 8 |
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v5.3` (2026-08-15)
-- **Last commit**: 2026-09-16
+- **Last commit**: 2026-09-19
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 21,890 · **Forks**: 817 · **Open issues**: 1,052 · **Contributors**: 203
+- **Stars**: 21,958 · **Forks**: 819 · **Open issues**: 1,052 · **Contributors**: 203
 
 ## Totals (cumulative)
 
-- **Releases**: 44 · **Merged PRs**: 683 · **Open PRs**: 0 · **Closed issues**: 1050 · **Open issues**: 2 · **Commits**: 4664
+- **Releases**: 44 · **Merged PRs**: 683 · **Open PRs**: 1 · **Closed issues**: 1051 · **Open issues**: 1 · **Commits**: 4666
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 3 | 0 | 5 | 1 | 33 |
-| last60d | 2026-07-20 | 1 | 5 | 0 | 8 | 1 | 45 |
-| 90d | 2026-06-20 | 1 | 5 | 0 | 9 | 1 | 50 |
-| last180d | 2026-03-22 | 1 | 9 | 0 | 18 | 1 | 94 |
-| 360d | 2025-09-23 | 2 | 16 | 0 | 40 | 1 | 167 |
-| last720d | 2024-09-28 | 3 | 48 | 0 | 60 | 1 | 289 |
+| 30d | 2026-08-21 | 0 | 3 | 1 | 5 | 0 | 35 |
+| last60d | 2026-07-22 | 1 | 5 | 1 | 9 | 0 | 47 |
+| 90d | 2026-06-22 | 1 | 5 | 1 | 10 | 0 | 52 |
+| last180d | 2026-03-24 | 1 | 9 | 1 | 19 | 0 | 96 |
+| 360d | 2025-09-25 | 2 | 16 | 1 | 41 | 0 | 169 |
+| last720d | 2024-09-30 | 3 | 48 | 1 | 61 | 0 | 290 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for nnn lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:31:00Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T04:47:25Z._
