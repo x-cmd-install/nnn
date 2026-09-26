@@ -14,13 +14,13 @@ x install nnn
 
 ## Code insight
 
-Total: **18,464** lines of code across **80** files in the top 5 languages.
+Total: **18,482** lines of code across **80** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 8,804 | 874 | 1,641 | 3 |
+| C | 8,811 | 874 | 1,642 | 3 |
 | CHeader | 4,429 | 280 | 89 | 7 |
-| Sh | 2,687 | 1,163 | 574 | 60 |
+| Sh | 2,698 | 1,164 | 574 | 60 |
 | Bash | 1,356 | 317 | 152 | 8 |
 | Makefile | 518 | 27 | 108 | 2 |
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v5.3` (2026-08-15)
-- **Last commit**: 2026-09-21
+- **Last commit**: 2026-09-26
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 22,007 · **Forks**: 821 · **Open issues**: 1,052 · **Contributors**: 204
+- **Stars**: 22,010 · **Forks**: 822 · **Open issues**: 1,053 · **Contributors**: 204
 
 ## Totals (cumulative)
 
-- **Releases**: 44 · **Merged PRs**: 684 · **Open PRs**: 0 · **Closed issues**: 1051 · **Open issues**: 1 · **Commits**: 4668
+- **Releases**: 44 · **Merged PRs**: 684 · **Open PRs**: 0 · **Closed issues**: 1052 · **Open issues**: 1 · **Commits**: 4671
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-26 | 0 | 3 | 0 | 5 | 0 | 33 |
-| last60d | 2026-07-27 | 1 | 6 | 0 | 9 | 0 | 48 |
-| 90d | 2026-06-27 | 1 | 6 | 0 | 9 | 0 | 53 |
-| last180d | 2026-03-29 | 1 | 10 | 0 | 18 | 0 | 84 |
-| 360d | 2025-09-30 | 2 | 17 | 0 | 41 | 0 | 170 |
-| last720d | 2024-10-05 | 3 | 49 | 0 | 61 | 0 | 289 |
+| 30d | 2026-08-27 | 0 | 3 | 0 | 6 | 0 | 36 |
+| last60d | 2026-07-28 | 1 | 6 | 0 | 9 | 0 | 51 |
+| 90d | 2026-06-28 | 1 | 6 | 0 | 10 | 0 | 56 |
+| last180d | 2026-03-30 | 1 | 10 | 0 | 19 | 0 | 87 |
+| 360d | 2025-10-01 | 2 | 17 | 0 | 42 | 0 | 173 |
+| last720d | 2024-10-06 | 3 | 49 | 0 | 62 | 0 | 292 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for nnn lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260925.yml` · 2026-09-25T04:45:06Z._
+_Snapshot: `data/card/260926.yml` · 2026-09-26T04:48:45Z._
