@@ -30,8 +30,8 @@ Overall score: **4.8 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 2/29 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (0/10) — Found 2/29 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 22,060 · **Forks**: 826 · **Open issues**: 1,055 · **Contributors**: 204
+- **Stars**: 22,065 · **Forks**: 827 · **Open issues**: 1,055 · **Contributors**: 204
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 0 | 1 | 0 | 5 | 0 | 23 |
-| last60d | 2026-08-13 | 1 | 5 | 0 | 9 | 0 | 56 |
-| 90d | 2026-07-14 | 1 | 6 | 0 | 12 | 0 | 68 |
-| last180d | 2026-04-15 | 1 | 9 | 0 | 18 | 0 | 80 |
-| 360d | 2025-10-17 | 2 | 15 | 0 | 41 | 0 | 188 |
-| last720d | 2024-10-22 | 3 | 49 | 0 | 63 | 0 | 309 |
+| 30d | 2026-09-13 | 0 | 1 | 0 | 5 | 0 | 23 |
+| last60d | 2026-08-14 | 1 | 5 | 0 | 9 | 0 | 56 |
+| 90d | 2026-07-15 | 1 | 6 | 0 | 12 | 0 | 68 |
+| last180d | 2026-04-16 | 1 | 9 | 0 | 18 | 0 | 80 |
+| 360d | 2025-10-18 | 2 | 15 | 0 | 40 | 0 | 188 |
+| last720d | 2024-10-23 | 3 | 49 | 0 | 63 | 0 | 309 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for nnn lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T05:45:09Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T06:40:51Z._
