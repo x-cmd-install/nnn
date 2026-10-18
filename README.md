@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 22,080 · **Forks**: 842 · **Open issues**: 1,055 · **Contributors**: 204
+- **Stars**: 22,085 · **Forks**: 865 · **Open issues**: 1,057 · **Contributors**: 204
 
 ## Totals (cumulative)
 
-- **Releases**: 44 · **Merged PRs**: 684 · **Open PRs**: 0 · **Closed issues**: 1054 · **Open issues**: 1 · **Commits**: 4688
+- **Releases**: 44 · **Merged PRs**: 684 · **Open PRs**: 4 · **Closed issues**: 1054 · **Open issues**: 3 · **Commits**: 4688
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-17 | 0 | 1 | 0 | 4 | 0 | 23 |
-| last60d | 2026-08-18 | 0 | 4 | 0 | 9 | 0 | 56 |
-| 90d | 2026-07-19 | 1 | 6 | 0 | 12 | 0 | 68 |
-| last180d | 2026-04-20 | 1 | 9 | 0 | 18 | 0 | 80 |
-| 360d | 2025-10-22 | 2 | 15 | 0 | 39 | 0 | 188 |
-| last720d | 2024-10-27 | 3 | 48 | 0 | 63 | 0 | 307 |
+| 30d | 2026-09-18 | 0 | 1 | 4 | 3 | 2 | 23 |
+| last60d | 2026-08-19 | 0 | 4 | 4 | 9 | 2 | 56 |
+| 90d | 2026-07-20 | 1 | 6 | 4 | 12 | 2 | 68 |
+| last180d | 2026-04-21 | 1 | 9 | 4 | 18 | 2 | 80 |
+| 360d | 2025-10-23 | 2 | 15 | 4 | 39 | 2 | 188 |
+| last720d | 2024-10-28 | 3 | 48 | 4 | 63 | 2 | 307 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for nnn lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261017.yml` · 2026-10-17T04:11:29Z._
+_Snapshot: `data/card/261018.yml` · 2026-10-18T04:18:11Z._
