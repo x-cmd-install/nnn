@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 22,085 · **Forks**: 834 · **Open issues**: 1,057 · **Contributors**: 205
+- **Stars**: 22,088 · **Forks**: 834 · **Open issues**: 1,057 · **Contributors**: 205
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 2 | 3 | 3 | 2 | 22 |
-| last60d | 2026-08-23 | 0 | 6 | 3 | 8 | 2 | 57 |
-| 90d | 2026-07-24 | 1 | 8 | 3 | 12 | 2 | 70 |
-| last180d | 2026-04-25 | 1 | 11 | 3 | 18 | 2 | 82 |
-| 360d | 2025-10-27 | 2 | 17 | 3 | 38 | 2 | 190 |
-| last720d | 2024-11-01 | 3 | 50 | 3 | 63 | 2 | 311 |
+| 30d | 2026-09-23 | 0 | 2 | 3 | 3 | 2 | 22 |
+| last60d | 2026-08-24 | 0 | 6 | 3 | 8 | 2 | 57 |
+| 90d | 2026-07-25 | 1 | 8 | 3 | 12 | 2 | 70 |
+| last180d | 2026-04-26 | 1 | 11 | 3 | 18 | 2 | 82 |
+| 360d | 2025-10-28 | 2 | 17 | 3 | 38 | 2 | 190 |
+| last720d | 2024-11-02 | 3 | 50 | 3 | 63 | 2 | 311 |
 
 ## Release assets
 
@@ -77,6 +77,25 @@ Lowest-scoring checks:
 | [nnn-static-5.3.x86_64.tar.gz](https://github.com/jarun/nnn/releases/download/v5.3/nnn-static-5.3.x86_64.tar.gz) | 645.6 KiB | `native/linux/x64` |
 | [nnn-v5.3.tar.gz](https://github.com/jarun/nnn/releases/download/v5.3/nnn-v5.3.tar.gz) | 280.0 KiB | `native/unknown` |
 
+## Distribution status
+
+Reported by **169** distros on [repology.org](https://repology.org/project/nnn). **47** are ✅ on the latest upstream release, **111** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `5.3` | ✅ latest |
+| Debian 14 | `5.3` | ✅ latest |
+| Debian 13 | `5.0` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `5.1` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `4.9` | ⚠️ outdated |
+| Arch | `5.3` | ✅ latest |
+| Homebrew | `5.3` | ✅ latest |
+| Fedora rawhide | `5.3` | ✅ latest |
+| Nix unstable | `5.3` | ✅ latest |
+| Void | `5.3` | ✅ latest |
+| Alpine edge | `5.2` | ⚠️ outdated |
+| openSUSE Tumbleweed | `5.2` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for nnn lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `nnn` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -86,4 +105,4 @@ Install metadata for nnn lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:29:12Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:34:38Z._
