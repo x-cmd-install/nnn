@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v5.3` (2026-08-15)
-- **Last commit**: 2026-10-25
+- **Last commit**: 2026-10-30
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 22,098 · **Forks**: 833 · **Open issues**: 1,057 · **Contributors**: 207
+- **Stars**: 22,101 · **Forks**: 833 · **Open issues**: 1,057 · **Contributors**: 207
 
 ## Totals (cumulative)
 
-- **Releases**: 44 · **Merged PRs**: 689 · **Open PRs**: 0 · **Closed issues**: 1055 · **Open issues**: 2 · **Commits**: 4699
+- **Releases**: 44 · **Merged PRs**: 689 · **Open PRs**: 0 · **Closed issues**: 1055 · **Open issues**: 2 · **Commits**: 4700
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 0 | 5 | 0 | 1 | 1 | 11 |
-| last60d | 2026-08-31 | 0 | 8 | 0 | 9 | 1 | 39 |
-| 90d | 2026-08-01 | 1 | 10 | 0 | 11 | 1 | 74 |
-| last180d | 2026-05-03 | 1 | 14 | 0 | 19 | 1 | 87 |
-| 360d | 2025-11-04 | 2 | 20 | 0 | 38 | 1 | 195 |
-| last720d | 2024-11-09 | 3 | 51 | 0 | 63 | 1 | 314 |
+| 30d | 2026-10-01 | 0 | 5 | 0 | 1 | 1 | 12 |
+| last60d | 2026-09-01 | 0 | 8 | 0 | 9 | 1 | 40 |
+| 90d | 2026-08-02 | 1 | 10 | 0 | 11 | 1 | 75 |
+| last180d | 2026-05-04 | 1 | 14 | 0 | 19 | 1 | 88 |
+| 360d | 2025-11-05 | 2 | 20 | 0 | 38 | 1 | 196 |
+| last720d | 2024-11-10 | 3 | 51 | 0 | 63 | 1 | 315 |
 
 ## Release assets
 
@@ -105,4 +105,4 @@ Install metadata for nnn lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T05:37:32Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T05:21:49Z._
