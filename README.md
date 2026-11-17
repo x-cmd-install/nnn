@@ -24,16 +24,6 @@ Total: **18,731** lines of code across **80** files in the top 5 languages.
 | Bash | 1,357 | 317 | 152 | 8 |
 | Makefile | 520 | 27 | 108 | 2 |
 
-## OpenSSF Scorecard
-
-Overall score: **4.9 / 10**
-
-Lowest-scoring checks:
-
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Code-Review** (2/10) — Found 5/25 approved changesets -- score normalized to 2
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-
 ## Source
 
 - **Upstream**: <https://github.com/jarun/nnn>
@@ -47,7 +37,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 22,122 · **Forks**: 832 · **Open issues**: 1,059 · **Contributors**: 207
+- **Stars**: 22,122 · **Forks**: 833 · **Open issues**: 1,059 · **Contributors**: 207
 
 ## Totals (cumulative)
 
@@ -57,12 +47,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 2 | 0 | 3 | 0 | 6 |
-| last60d | 2026-09-17 | 0 | 6 | 0 | 8 | 0 | 31 |
-| 90d | 2026-08-18 | 0 | 9 | 0 | 13 | 0 | 67 |
-| last180d | 2026-05-20 | 1 | 14 | 0 | 19 | 0 | 91 |
-| 360d | 2025-11-21 | 2 | 19 | 0 | 36 | 0 | 174 |
-| last720d | 2024-11-26 | 3 | 48 | 0 | 65 | 0 | 314 |
+| 30d | 2026-10-18 | 0 | 1 | 0 | 2 | 0 | 6 |
+| last60d | 2026-09-18 | 0 | 6 | 0 | 7 | 0 | 31 |
+| 90d | 2026-08-19 | 0 | 9 | 0 | 13 | 0 | 67 |
+| last180d | 2026-05-21 | 1 | 14 | 0 | 19 | 0 | 91 |
+| 360d | 2025-11-22 | 2 | 19 | 0 | 36 | 0 | 174 |
+| last720d | 2024-11-27 | 3 | 48 | 0 | 65 | 0 | 312 |
 
 ## Release assets
 
@@ -79,7 +69,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **171** distros on [repology.org](https://repology.org/project/nnn). **50** are ✅ on the latest upstream release, **110** are ⚠️ on an older version.
+Reported by **172** distros on [repology.org](https://repology.org/project/nnn). **51** are ✅ on the latest upstream release, **110** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -105,4 +95,4 @@ Install metadata for nnn lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T06:11:39Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T08:06:20Z._

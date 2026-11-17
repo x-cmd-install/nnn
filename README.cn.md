@@ -24,16 +24,6 @@ x install nnn
 | Bash | 1,357 | 317 | 152 | 8 |
 | Makefile | 520 | 27 | 108 | 2 |
 
-## OpenSSF Scorecard 评分
-
-总评分: **4.9 / 10**
-
-评分最低的几项:
-
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Code-Review** (2/10) — Found 5/25 approved changesets -- score normalized to 2
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-
 ## 源代码
 
 - **上游仓库**: <https://github.com/jarun/nnn>
@@ -47,7 +37,7 @@ x install nnn
 
 ## 流行度
 
-- **Star**: 22,122 · **Fork**: 832 · **开放 issue**: 1,059 · **贡献者**: 207
+- **Star**: 22,122 · **Fork**: 833 · **开放 issue**: 1,059 · **贡献者**: 207
 
 ## 累计统计
 
@@ -57,12 +47,12 @@ x install nnn
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 2 | 0 | 3 | 0 | 6 |
-| last60d | 2026-09-17 | 0 | 6 | 0 | 8 | 0 | 31 |
-| 90d | 2026-08-18 | 0 | 9 | 0 | 13 | 0 | 67 |
-| last180d | 2026-05-20 | 1 | 14 | 0 | 19 | 0 | 91 |
-| 360d | 2025-11-21 | 2 | 19 | 0 | 36 | 0 | 174 |
-| last720d | 2024-11-26 | 3 | 48 | 0 | 65 | 0 | 314 |
+| 30d | 2026-10-18 | 0 | 1 | 0 | 2 | 0 | 6 |
+| last60d | 2026-09-18 | 0 | 6 | 0 | 7 | 0 | 31 |
+| 90d | 2026-08-19 | 0 | 9 | 0 | 13 | 0 | 67 |
+| last180d | 2026-05-21 | 1 | 14 | 0 | 19 | 0 | 91 |
+| 360d | 2025-11-22 | 2 | 19 | 0 | 36 | 0 | 174 |
+| last720d | 2024-11-27 | 3 | 48 | 0 | 65 | 0 | 312 |
 
 ## Release 资产
 
@@ -79,7 +69,7 @@ x install nnn
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/nnn) 上共有 **171** 个发行版报告此项目。**50** 个 ✅ 已是最新上游版本，**110** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/nnn) 上共有 **172** 个发行版报告此项目。**51** 个 ✅ 已是最新上游版本，**110** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -105,4 +95,4 @@ nnn 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261116.yml` · 2026-11-16T06:11:40Z._
+_数据快照: `data/card/261117.yml` · 2026-11-17T08:06:20Z._
