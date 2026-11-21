@@ -1,27 +1,3 @@
-- repo: crux_38
-  subrepo: contrib
-  srcname: nnn
-  visiblename: nnn
-  version: "5.3"
-  origversion: null
-  status: newest
-  summary: Tiny, lightning fast, feature-packed file manager
-  maintainers:
-    - tbier@posteo.de
-- repo: cygwin
-  srcname: nnn
-  binname: nnn
-  visiblename: nnn
-  version: "5.0"
-  origversion: 5.0-1
-  status: outdated
-  summary: a full-featured terminal file manager
-  maintainers:
-    - federico.kircheis@cygwin
-  licenses:
-    - BSD-2-Clause
-  categories:
-    - Utils
 - repo: aerynos
   srcname: nnn
   visiblename: nnn
@@ -909,6 +885,30 @@
   summary: Tiny, lightning fast, feature-packed file manager
   maintainers:
     - tbier@posteo.de
+- repo: crux_38
+  subrepo: contrib
+  srcname: nnn
+  visiblename: nnn
+  version: "5.3"
+  origversion: null
+  status: newest
+  summary: Tiny, lightning fast, feature-packed file manager
+  maintainers:
+    - tbier@posteo.de
+- repo: cygwin
+  srcname: nnn
+  binname: nnn
+  visiblename: nnn
+  version: "5.0"
+  origversion: 5.0-1
+  status: outdated
+  summary: a full-featured terminal file manager
+  maintainers:
+    - federico.kircheis@cygwin
+  licenses:
+    - BSD-2-Clause
+  categories:
+    - Utils
 - repo: cygwin
   srcname: nnn
   binname: nnn-debuginfo
@@ -988,17 +988,6 @@
     - szlin@debian.org
   categories:
     - misc
-- repo: deepin_unstable
-  subrepo: main
-  srcname: nnn
-  binnames:
-    - nnn
-  visiblename: nnn
-  version: "2.2"
-  origversion: 2.2-2
-  status: outdated
-  maintainers:
-    - szlin@debian.org
 - repo: devuan_4_0
   subrepo: chimaera/main
   srcname: nnn
@@ -1095,22 +1084,6 @@
   categories:
     - Unspecified
 - repo: fedora_40
-  subrepo: updates
-  srcname: nnn
-  binnames:
-    - nnn
-    - nnn-debuginfo
-    - nnn-debugsource
-  visiblename: nnn
-  version: "5.0"
-  origversion: 5.0-1.fc40
-  status: outdated
-  summary: The missing terminal file browser for X
-  licenses:
-    - BSD-2-Clause
-  categories:
-    - Unspecified
-- repo: fedora_40
   subrepo: release
   srcname: nnn
   binnames:
@@ -1121,6 +1094,22 @@
   version: "4.9"
   origversion: 4.9-3.fc40
   status: legacy
+  summary: The missing terminal file browser for X
+  licenses:
+    - BSD-2-Clause
+  categories:
+    - Unspecified
+- repo: fedora_40
+  subrepo: updates
+  srcname: nnn
+  binnames:
+    - nnn
+    - nnn-debuginfo
+    - nnn-debugsource
+  visiblename: nnn
+  version: "5.0"
+  origversion: 5.0-1.fc40
+  status: outdated
   summary: The missing terminal file browser for X
   licenses:
     - BSD-2-Clause
@@ -1155,20 +1144,6 @@
   categories:
     - Unspecified
 - repo: fedora_42
-  subrepo: release
-  srcname: nnn
-  binnames:
-    - nnn
-  visiblename: nnn
-  version: "5.1"
-  origversion: 5.1-1.fc42
-  status: legacy
-  summary: The missing terminal file browser for X
-  licenses:
-    - BSD-2-Clause
-  categories:
-    - Unspecified
-- repo: fedora_42
   subrepo: updates
   srcname: nnn
   binnames:
@@ -1182,15 +1157,15 @@
     - BSD-2-Clause
   categories:
     - Unspecified
-- repo: fedora_43
-  subrepo: updates
+- repo: fedora_42
+  subrepo: release
   srcname: nnn
   binnames:
     - nnn
   visiblename: nnn
-  version: "5.3"
-  origversion: 5.3-1.fc43
-  status: newest
+  version: "5.1"
+  origversion: 5.1-1.fc42
+  status: legacy
   summary: The missing terminal file browser for X
   licenses:
     - BSD-2-Clause
@@ -1205,6 +1180,20 @@
   version: "5.1"
   origversion: 5.1-2.fc43
   status: legacy
+  summary: The missing terminal file browser for X
+  licenses:
+    - BSD-2-Clause
+  categories:
+    - Unspecified
+- repo: fedora_43
+  subrepo: updates
+  srcname: nnn
+  binnames:
+    - nnn
+  visiblename: nnn
+  version: "5.3"
+  origversion: 5.3-1.fc43
+  status: newest
   summary: The missing terminal file browser for X
   licenses:
     - BSD-2-Clause
@@ -1238,6 +1227,18 @@
     - BSD-2-Clause
   categories:
     - Unspecified
+- repo: opensuse_leap_15_5
+  subrepo: main/oss
+  srcname: nnn
+  visiblename: nnn
+  version: "4.7"
+  origversion: 4.7-bp155.1.4
+  status: outdated
+  summary: Terminal based file browser
+  licenses:
+    - BSD-2-Clause
+  categories:
+    - Productivity/File utilities
 - repo: fedora_45
   subrepo: release
   srcname: nnn
@@ -1602,18 +1603,6 @@
     - BSD
   categories:
     - File tools
-- repo: opensuse_leap_15_5
-  subrepo: main/oss
-  srcname: nnn
-  visiblename: nnn
-  version: "4.7"
-  origversion: 4.7-bp155.1.4
-  status: outdated
-  summary: Terminal based file browser
-  licenses:
-    - BSD-2-Clause
-  categories:
-    - Productivity/File utilities
 - repo: opensuse_leap_15_6
   subrepo: main/oss
   srcname: nnn
@@ -1862,6 +1851,19 @@
     - szlin@debian.org
   categories:
     - misc
+- repo: ubuntu_22_04
+  subrepo: jammy/universe
+  srcname: nnn
+  binnames:
+    - nnn
+  visiblename: nnn
+  version: "4.3"
+  origversion: 4.3-1
+  status: outdated
+  maintainers:
+    - szlin@debian.org
+  categories:
+    - universe/misc
 - repo: ravenports
   srcname: nnn
   binname: nnn
@@ -2039,19 +2041,6 @@
   visiblename: nnn
   version: "3.0"
   origversion: 3.0-2
-  status: outdated
-  maintainers:
-    - szlin@debian.org
-  categories:
-    - universe/misc
-- repo: ubuntu_22_04
-  subrepo: jammy/universe
-  srcname: nnn
-  binnames:
-    - nnn
-  visiblename: nnn
-  version: "4.3"
-  origversion: 4.3-1
   status: outdated
   maintainers:
     - szlin@debian.org
