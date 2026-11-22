@@ -24,6 +24,16 @@ Total: **18,731** lines of code across **80** files in the top 5 languages.
 | Bash | 1,357 | 317 | 152 | 8 |
 | Makefile | 520 | 27 | 108 | 2 |
 
+## OpenSSF Scorecard
+
+Overall score: **4.9 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (2/10) — Found 5/25 approved changesets -- score normalized to 2
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+
 ## Source
 
 - **Upstream**: <https://github.com/jarun/nnn>
@@ -37,7 +47,7 @@ Total: **18,731** lines of code across **80** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 22,135 · **Forks**: 834 · **Open issues**: 1,059 · **Contributors**: 207
+- **Stars**: 22,138 · **Forks**: 834 · **Open issues**: 1,059 · **Contributors**: 207
 
 ## Totals (cumulative)
 
@@ -47,12 +57,12 @@ Total: **18,731** lines of code across **80** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 0 | 0 | 0 | 2 | 0 | 6 |
-| last60d | 2026-09-22 | 0 | 5 | 0 | 7 | 0 | 31 |
-| 90d | 2026-08-23 | 0 | 9 | 0 | 12 | 0 | 67 |
-| last180d | 2026-05-25 | 1 | 14 | 0 | 18 | 0 | 91 |
-| 360d | 2025-11-26 | 2 | 18 | 0 | 35 | 0 | 174 |
-| last720d | 2024-12-01 | 3 | 48 | 0 | 65 | 0 | 311 |
+| 30d | 2026-10-23 | 0 | 0 | 0 | 2 | 0 | 6 |
+| last60d | 2026-09-23 | 0 | 5 | 0 | 7 | 0 | 31 |
+| 90d | 2026-08-24 | 0 | 9 | 0 | 12 | 0 | 67 |
+| last180d | 2026-05-26 | 1 | 14 | 0 | 18 | 0 | 91 |
+| 360d | 2025-11-27 | 2 | 18 | 0 | 35 | 0 | 174 |
+| last720d | 2024-12-02 | 3 | 48 | 0 | 65 | 0 | 311 |
 
 ## Release assets
 
@@ -95,4 +105,4 @@ Install metadata for nnn lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T06:56:00Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T06:31:05Z._

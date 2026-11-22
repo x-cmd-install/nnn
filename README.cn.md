@@ -24,6 +24,16 @@ x install nnn
 | Bash | 1,357 | 317 | 152 | 8 |
 | Makefile | 520 | 27 | 108 | 2 |
 
+## OpenSSF Scorecard 评分
+
+总评分: **4.9 / 10**
+
+评分最低的几项:
+
+- **Code-Review** (2/10) — Found 5/25 approved changesets -- score normalized to 2
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/jarun/nnn>
@@ -37,7 +47,7 @@ x install nnn
 
 ## 流行度
 
-- **Star**: 22,135 · **Fork**: 834 · **开放 issue**: 1,059 · **贡献者**: 207
+- **Star**: 22,138 · **Fork**: 834 · **开放 issue**: 1,059 · **贡献者**: 207
 
 ## 累计统计
 
@@ -47,12 +57,12 @@ x install nnn
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 0 | 0 | 0 | 2 | 0 | 6 |
-| last60d | 2026-09-22 | 0 | 5 | 0 | 7 | 0 | 31 |
-| 90d | 2026-08-23 | 0 | 9 | 0 | 12 | 0 | 67 |
-| last180d | 2026-05-25 | 1 | 14 | 0 | 18 | 0 | 91 |
-| 360d | 2025-11-26 | 2 | 18 | 0 | 35 | 0 | 174 |
-| last720d | 2024-12-01 | 3 | 48 | 0 | 65 | 0 | 311 |
+| 30d | 2026-10-23 | 0 | 0 | 0 | 2 | 0 | 6 |
+| last60d | 2026-09-23 | 0 | 5 | 0 | 7 | 0 | 31 |
+| 90d | 2026-08-24 | 0 | 9 | 0 | 12 | 0 | 67 |
+| last180d | 2026-05-26 | 1 | 14 | 0 | 18 | 0 | 91 |
+| 360d | 2025-11-27 | 2 | 18 | 0 | 35 | 0 | 174 |
+| last720d | 2024-12-02 | 3 | 48 | 0 | 65 | 0 | 311 |
 
 ## Release 资产
 
@@ -95,4 +105,4 @@ nnn 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261121.yml` · 2026-11-21T06:56:01Z._
+_数据快照: `data/card/261122.yml` · 2026-11-22T06:31:05Z._
