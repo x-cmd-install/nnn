@@ -1,3 +1,27 @@
+- repo: chimera
+  subrepo: user
+  srcname: nnn
+  binname: nnn-fishcomp
+  visiblename: nnn-fishcomp
+  version: "5.3"
+  origversion: 5.3-r0
+  status: newest
+  summary: Unorthodox terminal file manager (fish completions)
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_19
+  subrepo: community
+  srcname: nnn
+  binname: nnn-plugins
+  visiblename: nnn-plugins
+  version: "4.9"
+  origversion: 4.9-r0
+  status: outdated
+  summary: nnn official plugins
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - BSD-2-Clause
 - repo: aerynos
   srcname: nnn
   visiblename: nnn
@@ -189,6 +213,17 @@
     - jakub@jirutka.cz
   licenses:
     - BSD-2-Clause
+- repo: artix
+  subrepo: world
+  srcname: nnn
+  binname: nnn
+  visiblename: nnn
+  version: "5.3"
+  origversion: 5.3-1
+  status: newest
+  summary: The fastest terminal file manager ever written.
+  licenses:
+    - BSD-2-Clause
 - repo: alpine_3_19
   subrepo: community
   srcname: nnn
@@ -218,19 +253,6 @@
 - repo: alpine_3_19
   subrepo: community
   srcname: nnn
-  binname: nnn-plugins
-  visiblename: nnn-plugins
-  version: "4.9"
-  origversion: 4.9-r0
-  status: outdated
-  summary: nnn official plugins
-  maintainers:
-    - jakub@jirutka.cz
-  licenses:
-    - BSD-2-Clause
-- repo: alpine_3_19
-  subrepo: community
-  srcname: nnn
   binname: nnn-zsh-completion
   visiblename: nnn-zsh-completion
   version: "4.9"
@@ -332,6 +354,19 @@
     - jakub@jirutka.cz
   licenses:
     - BSD-2-Clause
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: nnn
+  binnames:
+    - nnn
+  visiblename: nnn
+  version: "5.3"
+  origversion: 5.3-1
+  status: newest
+  maintainers:
+    - szlin@debian.org
+  categories:
+    - misc
 - repo: alpine_3_21
   subrepo: community
   srcname: nnn
@@ -475,6 +510,19 @@
     - jakub@jirutka.cz
   licenses:
     - BSD-2-Clause
+- repo: raspbian_stable
+  subrepo: main
+  srcname: nnn
+  binnames:
+    - nnn
+  visiblename: nnn
+  version: "5.0"
+  origversion: 5.0-1
+  status: outdated
+  maintainers:
+    - szlin@debian.org
+  categories:
+    - misc
 - repo: alpine_3_23
   subrepo: community
   srcname: nnn
@@ -618,6 +666,19 @@
     - jakub@jirutka.cz
   licenses:
     - BSD-2-Clause
+- repo: raspbian_testing
+  subrepo: main
+  srcname: nnn
+  binnames:
+    - nnn
+  visiblename: nnn
+  version: "5.1"
+  origversion: 5.1-1
+  status: outdated
+  maintainers:
+    - szlin@debian.org
+  categories:
+    - misc
 - repo: alpine_3_24
   subrepo: community
   srcname: nnn
@@ -789,17 +850,6 @@
     - daringcuteseal@aur
   licenses:
     - BSD
-- repo: artix
-  subrepo: world
-  srcname: nnn
-  binname: nnn
-  visiblename: nnn
-  version: "5.3"
-  origversion: 5.3-1
-  status: newest
-  summary: The fastest terminal file manager ever written.
-  licenses:
-    - BSD-2-Clause
 - repo: chimera
   subrepo: user
   srcname: nnn
@@ -831,17 +881,6 @@
   origversion: 5.3-r0
   status: newest
   summary: Unorthodox terminal file manager (documentation)
-  licenses:
-    - BSD-2-Clause
-- repo: chimera
-  subrepo: user
-  srcname: nnn
-  binname: nnn-fishcomp
-  visiblename: nnn-fishcomp
-  version: "5.3"
-  origversion: 5.3-r0
-  status: newest
-  summary: Unorthodox terminal file manager (fish completions)
   licenses:
     - BSD-2-Clause
 - repo: chimera
@@ -1001,19 +1040,6 @@
     - szlin@debian.org
   categories:
     - misc
-- repo: devuan_unstable
-  subrepo: unstable/main
-  srcname: nnn
-  binnames:
-    - nnn
-  visiblename: nnn
-  version: "5.3"
-  origversion: 5.3-1
-  status: newest
-  maintainers:
-    - szlin@debian.org
-  categories:
-    - misc
 - repo: epel_7
   srcname: nnn
   visiblename: nnn
@@ -1116,20 +1142,6 @@
   categories:
     - Unspecified
 - repo: fedora_41
-  subrepo: release
-  srcname: nnn
-  binnames:
-    - nnn
-  visiblename: nnn
-  version: "5.0"
-  origversion: 5.0-1.fc41
-  status: legacy
-  summary: The missing terminal file browser for X
-  licenses:
-    - BSD-2-Clause
-  categories:
-    - Unspecified
-- repo: fedora_41
   subrepo: updates
   srcname: nnn
   binnames:
@@ -1143,15 +1155,15 @@
     - BSD-2-Clause
   categories:
     - Unspecified
-- repo: fedora_42
-  subrepo: updates
+- repo: fedora_41
+  subrepo: release
   srcname: nnn
   binnames:
     - nnn
   visiblename: nnn
-  version: "5.2"
-  origversion: 5.2-1.fc42
-  status: outdated
+  version: "5.0"
+  origversion: 5.0-1.fc41
+  status: legacy
   summary: The missing terminal file browser for X
   licenses:
     - BSD-2-Clause
@@ -1166,6 +1178,20 @@
   version: "5.1"
   origversion: 5.1-1.fc42
   status: legacy
+  summary: The missing terminal file browser for X
+  licenses:
+    - BSD-2-Clause
+  categories:
+    - Unspecified
+- repo: fedora_42
+  subrepo: updates
+  srcname: nnn
+  binnames:
+    - nnn
+  visiblename: nnn
+  version: "5.2"
+  origversion: 5.2-1.fc42
+  status: outdated
   summary: The missing terminal file browser for X
   licenses:
     - BSD-2-Clause
@@ -1200,20 +1226,6 @@
   categories:
     - Unspecified
 - repo: fedora_44
-  subrepo: release
-  srcname: nnn
-  binnames:
-    - nnn
-  visiblename: nnn
-  version: "5.2"
-  origversion: 5.2-1.fc44
-  status: legacy
-  summary: The missing terminal file browser for X
-  licenses:
-    - BSD-2-Clause
-  categories:
-    - Unspecified
-- repo: fedora_44
   subrepo: updates
   srcname: nnn
   binnames:
@@ -1227,18 +1239,20 @@
     - BSD-2-Clause
   categories:
     - Unspecified
-- repo: opensuse_leap_15_5
-  subrepo: main/oss
+- repo: fedora_44
+  subrepo: release
   srcname: nnn
+  binnames:
+    - nnn
   visiblename: nnn
-  version: "4.7"
-  origversion: 4.7-bp155.1.4
-  status: outdated
-  summary: Terminal based file browser
+  version: "5.2"
+  origversion: 5.2-1.fc44
+  status: legacy
+  summary: The missing terminal file browser for X
   licenses:
     - BSD-2-Clause
   categories:
-    - Productivity/File utilities
+    - Unspecified
 - repo: fedora_45
   subrepo: release
   srcname: nnn
@@ -1593,9 +1607,9 @@
   binnames:
     - nnn
   visiblename: nnn
-  version: "5.2"
-  origversion: 5.2-1
-  status: outdated
+  version: "5.3"
+  origversion: 5.3-1
+  status: newest
   summary: The missing terminal file browser for X
   maintainers:
     - angrypenguinpoland@gmail.com
@@ -1603,6 +1617,18 @@
     - BSD
   categories:
     - File tools
+- repo: opensuse_leap_15_5
+  subrepo: main/oss
+  srcname: nnn
+  visiblename: nnn
+  version: "4.7"
+  origversion: 4.7-bp155.1.4
+  status: outdated
+  summary: Terminal based file browser
+  licenses:
+    - BSD-2-Clause
+  categories:
+    - Productivity/File utilities
 - repo: opensuse_leap_15_6
   subrepo: main/oss
   srcname: nnn
@@ -1825,45 +1851,6 @@
     - szlin@debian.org
   categories:
     - misc
-- repo: raspbian_stable
-  subrepo: main
-  srcname: nnn
-  binnames:
-    - nnn
-  visiblename: nnn
-  version: "5.0"
-  origversion: 5.0-1
-  status: outdated
-  maintainers:
-    - szlin@debian.org
-  categories:
-    - misc
-- repo: raspbian_testing
-  subrepo: main
-  srcname: nnn
-  binnames:
-    - nnn
-  visiblename: nnn
-  version: "5.1"
-  origversion: 5.1-1
-  status: outdated
-  maintainers:
-    - szlin@debian.org
-  categories:
-    - misc
-- repo: ubuntu_22_04
-  subrepo: jammy/universe
-  srcname: nnn
-  binnames:
-    - nnn
-  visiblename: nnn
-  version: "4.3"
-  origversion: 4.3-1
-  status: outdated
-  maintainers:
-    - szlin@debian.org
-  categories:
-    - universe/misc
 - repo: ravenports
   srcname: nnn
   binname: nnn
@@ -2041,6 +2028,19 @@
   visiblename: nnn
   version: "3.0"
   origversion: 3.0-2
+  status: outdated
+  maintainers:
+    - szlin@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_22_04
+  subrepo: jammy/universe
+  srcname: nnn
+  binnames:
+    - nnn
+  visiblename: nnn
+  version: "4.3"
+  origversion: 4.3-1
   status: outdated
   maintainers:
     - szlin@debian.org
