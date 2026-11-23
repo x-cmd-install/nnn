@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v5.3` (2026-08-15)
-- **Last commit**: 2026-11-01
+- **Last commit**: 2026-11-22
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 22,138 · **Forks**: 834 · **Open issues**: 1,059 · **Contributors**: 207
+- **Stars**: 22,141 · **Forks**: 834 · **Open issues**: 1,059 · **Contributors**: 207
 
 ## Totals (cumulative)
 
-- **Releases**: 44 · **Merged PRs**: 689 · **Open PRs**: 0 · **Closed issues**: 1058 · **Open issues**: 1 · **Commits**: 4703
+- **Releases**: 44 · **Merged PRs**: 689 · **Open PRs**: 0 · **Closed issues**: 1058 · **Open issues**: 1 · **Commits**: 4706
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 0 | 0 | 0 | 2 | 0 | 6 |
-| last60d | 2026-09-23 | 0 | 5 | 0 | 7 | 0 | 31 |
-| 90d | 2026-08-24 | 0 | 9 | 0 | 12 | 0 | 67 |
-| last180d | 2026-05-26 | 1 | 14 | 0 | 18 | 0 | 91 |
-| 360d | 2025-11-27 | 2 | 18 | 0 | 35 | 0 | 174 |
-| last720d | 2024-12-02 | 3 | 48 | 0 | 65 | 0 | 311 |
+| 30d | 2026-10-24 | 0 | 0 | 0 | 2 | 0 | 0 |
+| last60d | 2026-09-24 | 0 | 5 | 0 | 7 | 0 | 0 |
+| 90d | 2026-08-25 | 0 | 9 | 0 | 12 | 0 | 0 |
+| last180d | 2026-05-27 | 1 | 14 | 0 | 18 | 0 | 0 |
+| 360d | 2025-11-28 | 2 | 18 | 0 | 35 | 0 | 0 |
+| last720d | 2024-12-03 | 3 | 47 | 0 | 65 | 0 | 313 |
 
 ## Release assets
 
@@ -79,7 +79,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **171** distros on [repology.org](https://repology.org/project/nnn). **51** are ✅ on the latest upstream release, **109** are ⚠️ on an older version.
+Reported by **171** distros on [repology.org](https://repology.org/project/nnn). **52** are ✅ on the latest upstream release, **108** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -105,4 +105,4 @@ Install metadata for nnn lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T06:31:05Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T08:34:01Z._
